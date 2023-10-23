@@ -21,6 +21,24 @@
       "source": "https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "NoCoin Filter List",
+      "source": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "CoinBlockerLists",
+      "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Easylist Cookie List",
+      "source": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": [
