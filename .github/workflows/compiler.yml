@@ -1,0 +1,35 @@
+name: CRON Compiler
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+
+jobs:
+  compiler:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+    - uses: actions/setup-node@v3
+      with:
+        node-version: current
+    - run: npm i -g @adguard/hostlist-compiler
+    - run: hostlist-compiler -c hostlist-compiler-config.json -o full.txt
+    - run: |
+        curl https://big.oisd.nl -o big.oisd.txt
+        curl https://abpvn.com/android/abpvn.txt -o abpvn.txt
+        curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -o hostsvn.txt
+    - name: Commit files
+      run: |
+        git config --local user.email "github-actions[bot]@users.noreply.github.com"
+        git config --local user.name "github-actions[bot]"
+        git add -A
+        git commit -m "auto: `full.txt` updated at $(date +'%Y-%m-%d %H:%M:%S')"
+    - name: Push changes
+      uses: ad-m/github-push-action@v0.8.0
+      with:
+        github_token: ${{ secrets.GITHUB_TOKEN }}
+        branch: ${{ github.ref }}
+
