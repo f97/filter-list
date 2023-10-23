@@ -9,9 +9,8 @@ AdGuardHome, but just this one.
 ## How Can I Use It?
 
 Pretty simple, copy this link
-( https://raw.githubusercontent.com/f97/filter-list/master/full.txt ) and
+( <https://raw.githubusercontent.com/f97/filter-list/master/full.txt> ) and
 add it to your AdGuard Home DNS block lists.
-
 
 ## Which Lists Are Combined Here
 
