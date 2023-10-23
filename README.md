@@ -1,4 +1,4 @@
-## Which Lists Are Combined Here?a name="which-lists-are-combined-here"/a
+## Which Lists Are Combined Here
 
 Which lists I'm using here, you can see in hostlist compiler configuration:
 
