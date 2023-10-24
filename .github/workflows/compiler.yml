@@ -20,7 +20,7 @@ jobs:
     - run: npm install -g @quilicicf/markdown-formatter
     - run: markdown-format -f README.md -o README.md
     - run: |
-        curl https://big.oisd.nl -o filters/big.oisd.txt
+        curl https://github.com/sjhgvr/oisd/raw/main/oisd_big.txt -o filters/big.oisd.txt
         curl https://secure.fanboy.co.nz/fanboy-cookiemonster.txt -o filters/fanboy-cookiemonster.txt
         curl https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser -o filters/CoinBlockerLists.txt
         curl https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt -o filters/adblock-nocoin-list.txt
