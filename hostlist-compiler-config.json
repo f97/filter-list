@@ -29,7 +29,7 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "CoinBlockerLists",
+      "name": "Coin Blocker Lists",
       "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate"]
