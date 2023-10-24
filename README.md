@@ -2,7 +2,7 @@
 
 This is a DNS blocklist that can be used for AdGuardHome. (Does not work with Pi-hole)
 
-This list combines more than 80 other lists, including the default lists from
+This list combines for simple filter lists, including the default lists from
 AdGuardHome, into one single list, so you don't have to add countless lists to your
 AdGuardHome, but just this one.
 
