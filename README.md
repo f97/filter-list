@@ -9,7 +9,7 @@ AdGuardHome, but just this one.
 ## How Can I Use It?
 
 Pretty simple, copy this link
-( <https://raw.githubusercontent.com/f97/filter-list/master/full.txt> ) and
+( <https://raw.githubusercontent.com/f97/filter-list/master/filters/full.txt> ) and
 add it to your AdGuard Home DNS block lists.
 
 ## Which Lists Are Combined Here
@@ -21,7 +21,7 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Name                 | URL                                                                                |
 | -------------------- | ---------------------------------------------------------------------------------- |
 | OISD Big List        | <https://big.oisd.nl>                                                              |
-| VNM: ABPVN List      | <https://abpvn.com/android/abpvn.txt>                                              |
+| VNM: ABPVN List      | <https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt>                                              |
 | Bigdargon - hostsVN  | <https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts>                 |
 | NoCoin Filter List   | <https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt> |
 | CoinBlockerLists     | <https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser>                        |

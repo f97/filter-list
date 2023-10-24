@@ -16,13 +16,16 @@ jobs:
       with:
         node-version: current
     - run: npm i -g @adguard/hostlist-compiler
-    - run: hostlist-compiler -c hostlist-compiler-config.json -o full.txt
+    - run: hostlist-compiler -c hostlist-compiler-config.json -o filters/full.txt
     - run: npm install -g @quilicicf/markdown-formatter
     - run: markdown-format -f README.md -o README.md
     - run: |
-        curl https://big.oisd.nl -o big.oisd.txt
-        curl https://abpvn.com/android/abpvn.txt -o abpvn.txt
-        curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -o hostsvn.txt
+        curl https://big.oisd.nl -o filters/big.oisd.txt
+        curl https://secure.fanboy.co.nz/fanboy-cookiemonster.txt -o filters/fanboy-cookiemonster.txt
+        curl https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser -o filters/CoinBlockerLists.txt
+        curl https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt -o filters/adblock-nocoin-list.txt
+        curl https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt -o filters/abpvn.txt
+        curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -o filters/hostsvn.txt
     - name: Commit files
       run: |
         git config --local user.email "github-actions[bot]@users.noreply.github.com"

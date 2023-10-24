@@ -12,7 +12,7 @@
     },
     {
       "name": "VNM: ABPVN List",
-      "source": "https://abpvn.com/android/abpvn.txt",
+      "source": "https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
