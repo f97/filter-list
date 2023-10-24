@@ -6,7 +6,7 @@
   "sources": [
     {
       "name": "OISD Big List",
-      "source": "https://big.oisd.nl",
+      "source": "https://github.com/sjhgvr/oisd/raw/main/oisd_big.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
