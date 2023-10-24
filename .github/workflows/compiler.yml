@@ -11,10 +11,10 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-    - uses: actions/setup-node@v4
+    - uses: actions/checkout@v4.1.1
+    - uses: actions/setup-node@v4.0.0
       with:
-        node-version: current
+        node-version: 18
     - run: npm i -g @adguard/hostlist-compiler
     - run: hostlist-compiler -c hostlist-compiler-config.json -o filters/full.txt
     - run: npm install -g @quilicicf/markdown-formatter
