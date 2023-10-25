@@ -39,6 +39,18 @@
       "source": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Adguard Mobile",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Adguard Base",
+      "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": [
