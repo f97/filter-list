@@ -25,6 +25,15 @@ jobs:
         curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -o filters/hostsvn.txt
         curl https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt -o filters/adguard-mobile.txt
         curl https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt -o filters/adguard-base.txt
+        curl https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains -o filters/nextdns-cname-cloaking.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa -o filters/nextdns-alexa.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple -o filters/nextdns-apple.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei -o filters/nextdns-huawei.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku -o filters/nextdns-roku.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung -o filters/nextdns-samsung.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos -o filters/nextdns-sonos.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows -o filters/nextdns-windows.txt
+        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi -o filters/nextdns-xiaomi.txt
     - run: npm i -g @adguard/hostlist-compiler
     - run: hostlist-compiler -c hostlist-compiler-config.json -o filters/full.txt
     - run: npm install -g @quilicicf/markdown-formatter
