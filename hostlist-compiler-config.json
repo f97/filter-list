@@ -105,6 +105,12 @@
       "source": "https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "1Hosts (mini)",
+      "source": "https://o0.pages.dev/mini/adblock.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": [
