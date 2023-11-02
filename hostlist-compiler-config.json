@@ -107,7 +107,7 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "1Hosts (mini)",
+      "name": "1Hosts Mini",
       "source": "https://o0.pages.dev/mini/adblock.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
