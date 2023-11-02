@@ -17,23 +17,12 @@ jobs:
         node-version: 18
     - run: |
         rm -rf filters/*
-        curl https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt -o filters/big.oisd.txt
-        curl https://secure.fanboy.co.nz/fanboy-cookiemonster.txt -o filters/fanboy-cookie-monster.txt
-        curl https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser -o filters/coin-blocker-lists.txt
-        curl https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt -o filters/adblock-no-coin-list.txt
-        curl https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt -o filters/abpvn.txt
-        curl https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts -o filters/hostsvn.txt
-        curl https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt -o filters/adguard-mobile.txt
-        curl https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt -o filters/adguard-base.txt
-        curl https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains -o filters/nextdns-cname-cloaking.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa -o filters/nextdns-alexa.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple -o filters/nextdns-apple.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei -o filters/nextdns-huawei.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku -o filters/nextdns-roku.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung -o filters/nextdns-samsung.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos -o filters/nextdns-sonos.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows -o filters/nextdns-windows.txt
-        curl https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi -o filters/nextdns-xiaomi.txt
+        json=$(cat hostlist-compiler-config.json)
+        sources=$(echo $json | jq -r '.sources[].source')
+        for source in $sources; do
+          filename=$(basename "$source")
+          aria2c --dir=filters --out="$filename" "$source"
+        done
     - run: npm i -g @adguard/hostlist-compiler
     - run: hostlist-compiler -c hostlist-compiler-config.json -o filters/full.txt
     - run: npm install -g @quilicicf/markdown-formatter
