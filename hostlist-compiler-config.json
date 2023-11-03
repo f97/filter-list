@@ -123,6 +123,18 @@
       "source": "https://easylist.to/easylist/easylist.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Lightswitch05 Dating Services",
+      "source": "https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Lightswitch05 Ads & Tracking",
+      "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": [
