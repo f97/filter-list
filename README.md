@@ -40,3 +40,5 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | 1Hosts (mini)                    | <https://o0.pages.dev/mini/adblock.txt>                                                                   |
 | GoodbyeAds AdBlock Filter        | <https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt>      |
 | EasyList                         | <https://easylist.to/easylist/easylist.txt>                                                               |
+|Lightswitch05 Dating Services|https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt|
+|Lightswitch05 Ads & Tracking|https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt|
