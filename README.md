@@ -41,5 +41,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | GoodbyeAds AdBlock Filter        | <https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt>      |
 | EasyList                         | <https://easylist.to/easylist/easylist.txt>                                                               |
 | Lightswitch05 Dating Services    | <https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt>                            |
-| Lightswitch05 Facebook           | <https://www.github.developerdan.com/hosts/lists/facebook-extended.txt>                                   |
 | Lightswitch05 Ads & Tracking     | <https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt>                           |
