@@ -131,12 +131,6 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "Lightswitch05 Facebook",
-      "source": "https://www.github.developerdan.com/hosts/lists/facebook-extended.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
       "name": "Lightswitch05 Ads & Tracking",
       "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
       "type": "adblock",
