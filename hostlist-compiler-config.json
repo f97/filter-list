@@ -135,6 +135,12 @@
       "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Smart-TV Blocklist",
+      "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": [
