@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202311032354
+! Version: 202311040113
 ! Title: EasyList
-! Last modified: 03 Nov 2023 23:54 UTC
+! Last modified: 04 Nov 2023 01:13 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -23763,6 +23763,7 @@ browsershots.org#@#.advert_area
 ||bullymust.com^
 ||bulochka.xyz^
 ||bulrev.com^
+||bulserv.com^
 ||bultaika.net^
 ||bultenanogra.cfd^
 ||bulyiel.com^
@@ -61722,6 +61723,7 @@ kotaku.com##.sc-6zn1bq-0
 distractify.com,inquisitr.com,okmagazine.com,radaronline.com##.sc-fTZrbU
 scotsman.com##.sc-igwadP
 sankakucomplex.com##.scad
+soyacincau.com##.scadslot-widget
 bangordailynews.com##.scaip
 newindianexpress.com##.scc
 radiotimes.com##.schedule__row-list-item-advert
