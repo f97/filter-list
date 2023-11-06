@@ -23,6 +23,12 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "FMSF 2",
+      "source": "https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "NoCoin Filter List",
       "source": "https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt",
       "type": "hosts",
