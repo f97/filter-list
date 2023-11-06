@@ -153,8 +153,13 @@
       "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Tiktok",
+      "source": "https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
-
   ],
   "transformations": [
     "RemoveComments",
