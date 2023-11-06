@@ -45,4 +45,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Smart-TV Blocklist               | <https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt>                       |
 | Anti-AD                          | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt>           |
 | HaGeZi's Personal DNS            | <https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt>                       |
-|TikTok|https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt|
+| TikTok                           | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt>   |
