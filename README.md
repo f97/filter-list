@@ -45,6 +45,6 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Smart-TV Blocklist               | <https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt>                       |
 | Anti-AD                          | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt>           |
 | HaGeZi's Personal DNS            | <https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt>                       |
-| Pi Hole TikTok                           | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt>   |
-|Pi Hole Smart TV|https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt|
-|Pi Hole Smart Phone|https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt|
+| Pi Hole TikTok                   | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt>   |
+| Pi Hole Smart TV                 | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt>        |
+| Pi Hole Smart Phone              | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt>      |
