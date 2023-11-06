@@ -141,6 +141,12 @@
       "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Anti-AD",
+      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
   ],
   "transformations": [
