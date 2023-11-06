@@ -44,4 +44,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Lightswitch05 Ads & Tracking     | <https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt>                           |
 | Smart-TV Blocklist               | <https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt>                       |
 | Anti-AD                          | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt>           |
-|HaGeZi's Personal DNS|https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt|
+| HaGeZi's Personal DNS            | <https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt>                       |
