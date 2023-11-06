@@ -155,8 +155,20 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "Tiktok",
+      "name": "Pi Hole Tiktok",
       "source": "https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Pi Hole Smart TV",
+      "source": "https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Pi Hole Smart Phone",
+      "source": "https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
     }
