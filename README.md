@@ -48,3 +48,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Pi Hole TikTok                   | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt>   |
 | Pi Hole Smart TV                 | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt>        |
 | Pi Hole Smart Phone              | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt>      |
+|FMSF 2|https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt|
