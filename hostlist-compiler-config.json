@@ -147,7 +147,14 @@
       "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "HaGeZi's Personal DNS",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/personal.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
     }
+
   ],
   "transformations": [
     "RemoveComments",
