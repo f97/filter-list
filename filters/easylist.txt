@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202311070027
+! Version: 202311070114
 ! Title: EasyList
-! Last modified: 07 Nov 2023 00:27 UTC
+! Last modified: 07 Nov 2023 01:14 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -57566,6 +57566,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||fapnado.com/api/spots/
 ||fapnado.com/bump
 ||fappenist.com/fojytyzzkm.php
+||faptor.com/bump/
 ||fapxl.com/view/spot/
 ||fastfuckgames.com/aff.htm
 ||fetishshrine.com/js/customscript.js
@@ -57744,6 +57745,7 @@ $popup,third-party,domain=123animes.mobi|1337x.buzz|720pstream.tv|adblockeronsta
 ||oi.hqbang.com^
 ||oj.4wank.com^
 ||ok.4wank.net^
+||ok.faptor.com^
 ||oldies.name/ok/
 ||orgyxxxhub.com/js/138eka326.js
 ||orgyxxxhub.com/js/965eka57.js
@@ -59588,6 +59590,7 @@ chron.com,sfgate.com##.b-gray300.md\:bt.md\:bb
 china.ahk.de##.b-header__banner
 dnserrorassist.att.net,searchguide.level3.com##.b-links
 kyivpost.com##.b-title
+investordaily.com.au##.b-topLeaderboard
 bizcommunity.com##.b-topbanner
 maritimeprofessional.com##.b300x250
 coin360.com##.b5BiRm
@@ -63651,6 +63654,7 @@ gosexpod.com###xtw
 porndroids.com##.CDjtesb7pU__video-units
 bellesa.co##.Display__RatioOuter-hkc90m-0
 beeg.com##.GreyFox
+redgifs.com##.LaPF7yJs
 topinsearch.com##.TelkiTeasersBlock
 hentaivideo.tube##.UVPAnnotationJavascriptNormal
 xtube.com##.ZBTBTTr93ez9.ktZk9knDKFfB
@@ -63864,6 +63868,7 @@ h2porn.com##.cube-thumbs-holder
 worldsex.com##.currently-blokje-block-inner
 alloldpics.com,sexygirlspics.com##.custom-spot
 worldsex.com##.dazone
+faptor.com##.dblock
 anysex.com##.desc.type2
 rule34.xxx##.desktop
 theyarehuge.com##.desktop-spot
@@ -64328,7 +64333,8 @@ xhamster.com##.xplayer-b
 xhamster18.desi##.xplayer-banner
 megaxh.com##.xplayer-banner-bottom
 xhamster.com##.xplayer-hover-menu
-hqbang.com##.xpot-horizontal
+faptor.com,hqbang.com##.xpot-horizontal
+redgifs.com##.ySY4Rc9M
 theyarehuge.com##.yellow
 xhamster.com##.yfd-fdcam-thumb
 xhamster.com##.yfd-fdcams-widget
@@ -64354,6 +64360,7 @@ momxxxfun.com##.zone-2
 pinflix.com,pornhd.com##.zone-area
 hentai2read.com##.zonePlaceholder
 fapnado.xxx##.zpot-horizontal
+faptor.com##.zpot-horizontal-img
 fapnado.xxx##.zpot-vertical
 jizzbunker2.com,xxxdan.com,xxxdan3.com##.zx1p
 tnaflix.com##.zzMeBploz
