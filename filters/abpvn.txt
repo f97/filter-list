@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231108093138
+! Version: 20231108102039
 ! Title: ABPVN List
-! Last modified: 08 Nov 2023 09:31:38 UTC+7
+! Last modified: 08 Nov 2023 10:20:39 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -1323,6 +1323,7 @@ zingnews.vn,toquoc.vn,baoxaydung.com.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,
 @@||blogtruyen.vn/file/bullseyegreen.gif
 @@||cdnjs.cloudflare.com/ajax/libs/videojs-contrib-ads/6.0.0/videojs-contrib-ads.js$script,domain=sctvonline.vn
 @@||contextual.media.net/dmedianet.js$domain=azrom.net
+@@||diendan.yopovn.com/js/z5aLdJZ/publicidade.js$script,domain=diendan.yopovn.com
 @@||forum.gocmod.com/js/$~third-party
 @@||fundingchoicesmessages.google.com/img/px.gif$domain=molympiad.net|tailieungon.com
 @@||googleads.g.doubleclick.net/pagead/$domain=cungthi.online|romgoc.net
@@ -1379,7 +1380,7 @@ zingnews.vn,toquoc.vn,baoxaydung.com.vn,tienphong.vn,taichinhdoanhnghiep.net.vn,
 @@||traderviet.org$generichide
 @@||truongblogger.top$generichide
 @@||web1s.asia$generichide
-@@||yopo.vn$generichide
+@@||yopovn.com$generichide
 duytan.edu.vn#@##adbox
 game24h.vn#@#.adsbyvli
 ios.codevn.net#@#div[id*="ScriptRoot"]
