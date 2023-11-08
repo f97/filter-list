@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Nov 2023 00:51 UTC
-! Version: 2023.1108.0051.36
+! Last modified: 08 Nov 2023 12:50 UTC
+! Version: 2023.1108.1250.15
 ! Syntax: AdBlock
-! Number of entries: 56816
+! Number of entries: 56848
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -59,6 +59,7 @@
 ||e7cb8e602c.05b960757b.com^
 ||06119add5f6aebd69e3e38a1417fd14972f44442f6828416c46959b1.com^
 ||063f828cf2.com^
+||aec7393c22.06e293435c.com^
 ||071899.com^
 ||072c4580e8.com^
 ||07353.com^
@@ -358,6 +359,7 @@
 ||1f6f6bfb05.com^
 ||a7d44155fc.1f804d7570.com^
 ||bc18cb3771.1f8e584b62.com^
+||ab810b774c.1facd1b75f.com^
 ||1fairspin.xyz^
 ||1fluxx-strean.com^
 ||1freestyl3domain.com^
@@ -5708,6 +5710,7 @@
 ||metrics.apiiro.com^
 ||apilond.com^
 ||adx.apiok.net^
+||apis301.com^
 ||apispyhuman.com^
 ||apk-get-update.info^
 ||apk-rool.info^
@@ -7563,6 +7566,7 @@
 ||bavxxf.xyz^
 ||fd.bawag.at^
 ||ssdc.bawag.com^
+||telemetry.bawaggroup.com^
 ||bawdybalance.com^
 ||bawdybeast.com^
 ||bawdylytta.com^
@@ -14517,6 +14521,7 @@
 ||stnetsdk.vivo.com.cn^
 ||stsdk.vivo.com.cn^
 ||vcardsdkservice.vivo.com.cn^
+||ipcc.vnpt.com.vn^
 ||smetrics.vodafone.com.tr^
 ||metrics.vogue.com.au^
 ||admin.voh.com.vn^
@@ -15253,6 +15258,7 @@
 ||cpagrip.com^
 ||cpalabtracking.com^
 ||cpalead.com^
+||cpaokhfmaccu.com^
 ||analytics.cpasitesolutions.com^
 ||cpaspeed.online^
 ||cpatrk.net^
@@ -17553,6 +17559,7 @@
 ||omes.demdex.net^
 ||omron.demdex.net^
 ||oncor.demdex.net^
+||onsemi.demdex.net^
 ||openreach.demdex.net^
 ||openuniversity.demdex.net^
 ||oracle.demdex.net^
@@ -17739,6 +17746,7 @@
 ||servicenow.demdex.net^
 ||seven.demdex.net^
 ||sevenonemedia.demdex.net^
+||severntrent.demdex.net^
 ||sgbd.demdex.net^
 ||shangri-lainternational.demdex.net^
 ||sharecare.demdex.net^
@@ -18771,6 +18779,7 @@
 ||streamstats.prd.dlive.tv^
 ||dlmewheniyv.xyz^
 ||dlmonitize.com^
+||metric.dlocal.com^
 ||dlqmaup.com^
 ||ccm1.dlr.de^
 ||dlslw.com^
@@ -20420,6 +20429,7 @@
 ||emotionallycosmeticshardly.com^
 ||emotionallyhemisphere.com^
 ||ed.emp.de^
+||ed.emp-online.com^
 ||ed.emp-shop.pl^
 ||emp3.org^
 ||empafnyfiexpectt.info^
@@ -20562,7 +20572,6 @@
 ||enormousfoot.com^
 ||enoskees.space^
 ||enot.fyi^
-||enot.io^
 ||enoughturtlecontrol.com^
 ||analytics.enovation.io^
 ||enpport.com^
@@ -20625,6 +20634,7 @@
 ||environmentalanalogous.com^
 ||environmentalchangingnative.com^
 ||environmentaltallrender.com^
+||envoke.com^
 ||analytics.envoyglobal.com^
 ||envylavish.com^
 ||enwerzaqqbqnj.top^
@@ -20693,6 +20703,7 @@
 ||eqads.com^
 ||eqkjmvkkmvvkj.top^
 ||eqknlsw.xyz^
+||metrics.eql.com^
 ||metrics.eql.xyz^
 ||eqmx04n5s0.ru^
 ||eqmyjnyjzqzkl.top^
@@ -20901,6 +20912,7 @@
 ||ethnicmovescrupulous.com^
 ||ethoamee.xyz^
 ||ethresholdouc.xyz^
+||ethroa.com^
 ||analytics.ethsch.org^
 ||ethyca.com^
 ||jm.ethylintusker.com^
@@ -23578,6 +23590,7 @@
 ||gatewayimpossibilitypursue.com^
 ||gatewayinterface.com^
 ||marketing.gatewayp.com^
+||marketing.gatlinburg.com^
 ||gatols.com^
 ||gator.com^
 ||analytics.gatsbyjs.com^
@@ -25417,7 +25430,6 @@
 ||hadsimz.com^
 ||haek.net^
 ||consenttool.haendlerbund.de^
-||hafder.com^
 ||haffnetworkmm.com^
 ||haffo70.com^
 ||hafisague.com^
@@ -25947,7 +25959,6 @@
 ||hentaigold.net^
 ||cdn3.hentaihand.com^
 ||cdn5.hentaihaven.fun^
-||hentainotits.com^
 ||hentaiplaytime.com^
 ||cdn3.hentok.com^
 ||heodeidsoanadthe.info^
@@ -29142,6 +29153,7 @@
 ||jagice.uno^
 ||track.jagosketer.com^
 ||images.fanservices.jaguars.com^
+||jaigaivi.xyz^
 ||jailabridge.com^
 ||jailbulb.com^
 ||jainbagong.com^
@@ -31933,6 +31945,7 @@
 ||ads.livetv716.me^
 ||ads.livetv718.me^
 ||ads.livetv724.me^
+||ads.livetv727.me^
 ||liveupdt.com^
 ||track.livexsite.com^
 ||liveyield.com^
@@ -32831,6 +32844,7 @@
 ||smetric.malaysiaairlines.com^
 ||maleliteral.com^
 ||mali4blat.com^
+||malibertefinanciere.co^
 ||maliciousmusic.com^
 ||malief.com^
 ||malikiresids.com^
@@ -32913,7 +32927,6 @@
 ||manurepungentfew.com^
 ||widget.manychat.com^
 ||manyou.com^
-||manytin.top^
 ||maoqxyl.xyz^
 ||mapbasin.com^
 ||events.mapbox.com^
@@ -35199,6 +35212,7 @@
 ||usage-us-fy2018.myhomescreen.tv^
 ||myhotel-jordan.com^
 ||myhug.cn^
+||myiads.com^
 ||analytics.mojo.myisolved.com^
 ||myjollyrudder.com^
 ||myjraqu.net^
@@ -37244,6 +37258,7 @@
 ||ofhappinyer.com^
 ||ofhypnoer.com^
 ||ofleafeona.com^
+||ofoockoo.com^
 ||t.ofsys.com^
 ||oftenparttimebeen.com^
 ||oftheseveryh.org^
@@ -37966,6 +37981,7 @@
 ||pogotowie-24h.org.pl^
 ||services.princes-trust.org.uk^
 ||matomo.rnts.org.uk^
+||metrics.salvationarmy.org.uk^
 ||smetrics.savethechildren.org.uk^
 ||log.sggp.org.vn^
 ||sgrhf.org.pk^
@@ -38390,6 +38406,7 @@
 ||ownlocal.com^
 ||ownpage.fr^
 ||owrkwilxbw.com^
+||analytics.campusfrance.ows.fr^
 ||ox-bio.com^
 ||oxbowfog.com^
 ||oxcash.com^
@@ -39437,6 +39454,7 @@
 ||philacct.com^
 ||philadelphiadip.com^
 ||clarity.philips.com^
+||origin.www.images.2.forms.healthcare.philips.com^
 ||smetrics.marketing.lighting.philips.com^
 ||smetrics.marketing.philips-hue.com^
 ||smetric.philosophy.com^
@@ -39771,6 +39789,7 @@
 ||plaitseeds.com^
 ||plaittest.com^
 ||metrics.plandisc.com^
+||planebasin.com^
 ||planesforce.website^
 ||planesknob.com^
 ||planet-daily-news.com^
@@ -42408,6 +42427,7 @@
 ||rechannelapi.com^
 ||rechanque.com^
 ||metric.rechargeapps.com^
+||recholta.net^
 ||recipeominouscrest.com^
 ||recipesunny.com^
 ||reciteassemble.com^
@@ -43049,6 +43069,7 @@
 ||rexadvert.xyz^
 ||analytics.rexel.de^
 ||analytics.rexel.fr^
+||analytics.rexel.nl^
 ||rexprosealers.com^
 ||rexsrv.com^
 ||rexsvj8omabse.jp^
@@ -47086,6 +47107,7 @@
 ||stainvinegar.com^
 ||stairtuy.com^
 ||stake7.com^
+||stakingbasket.com^
 ||stakingscrew.com^
 ||stakingslope.com^
 ||stakingsmile.com^
@@ -48150,6 +48172,8 @@
 ||t.t-cb-spook.com^
 ||adapt.t-mobile.com^
 ||analytics.t-mobile.com^
+||api-analytics.t-mobile.cz^
+||consent.t-mobile.cz^
 ||direct.t-mobile.com^
 ||iotmail.t-mobile.com^
 ||metrics.t-mobile.com^
@@ -49195,6 +49219,7 @@
 ||theretroshop.pl^
 ||thereuponscare.com^
 ||thereviewhub.co^
+||matomo.therightmove.be^
 ||em.thermofisher.com^
 ||images.go.thermofisher.com^
 ||somni.thermofisher.com^
@@ -49259,6 +49284,7 @@
 ||thewowfeed.com^
 ||thewscozier.uno^
 ||theyenglory.guru^
+||theyunm.com^
 ||thickshortwage.com^
 ||thiem-csl.com^
 ||thighpoker.com^
@@ -49306,6 +49332,7 @@
 ||thomasbarlowpro.com^
 ||thomastorch.com^
 ||thompaur.com^
+||thompoot.com^
 ||info.thomsonlinear.com^
 ||analytics.thomsonreuters.com^
 ||app.thomsonreuters.com^
@@ -54497,6 +54524,7 @@
 ||wknd.ai^
 ||wkqcnkstso.com^
 ||wkrcbszi.xyz^
+||axp.wkrg.com^
 ||axp.wkrn.com^
 ||wktfkj.com^
 ||analytics.wl-engage.com^
@@ -54865,6 +54893,7 @@
 ||bfv01.wt-eu02.net^
 ||boss01.wt-eu02.net^
 ||caltagironeeditore01.wt-eu02.net^
+||corporate-benefits.wt-eu02.net^
 ||deutschlandcard01.wt-eu02.net^
 ||henkel01.wt-eu02.net^
 ||hepsiburadatest01.wt-eu02.net^
@@ -54883,6 +54912,7 @@
 ||viegade01.wt-eu02.net^
 ||wa-wdr.wt-eu02.net^
 ||wdr01.wt-eu02.net^
+||zusatzleistungen01.wt-eu02.net^
 ||wt-safetag.com^
 ||wt20trk.com^
 ||wtach.club^
@@ -55810,6 +55840,7 @@
 ||analytics-lal-nba.yinzcam.com^
 ||analytics-mia-nfl.yinzcam.com^
 ||analytics-mil-nba.yinzcam.com^
+||analytics-min-nba.yinzcam.com^
 ||analytics-nba-1.yinzcam.com^
 ||analytics-nba-v3.yinzcam.com^
 ||analytics-nfl-4.yinzcam.com^
@@ -56114,6 +56145,7 @@
 ||yumomis.com^
 ||yunfan.com^
 ||yunliunet.com^
+||yunmaue.com^
 ||yunos.com^
 ||yunosurveys.com^
 ||yunqingugm.com^
