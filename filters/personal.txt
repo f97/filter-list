@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 08 Nov 2023 12:50 UTC
-! Version: 2023.1108.1250.15
+! Last modified: 09 Nov 2023 01:15 UTC
+! Version: 2023.1109.0115.27
 ! Syntax: AdBlock
-! Number of entries: 56848
+! Number of entries: 56870
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -4916,6 +4916,7 @@
 ||sensors-pro-analytics-nlbtoalb-1031ce3406151b89.elb.ap-northeast-1.amazonaws.com^
 ||prod-an2-telemetry-bucket.s3.ap-northeast-2.amazonaws.com^
 ||snowplow-collector-nlb-555b87488d0a4e62.elb.ap-southeast-1.amazonaws.com^
+||ad-host-backup-asia.s3.ap-southeast-1.amazonaws.com^
 ||prod-as1-telemetry-bucket.s3.ap-southeast-1.amazonaws.com^
 ||prod-as1-telemetry-cs-bucket.s3.ap-southeast-1.amazonaws.com^
 ||cloudfront-labs.amazonaws.com^
@@ -4923,6 +4924,8 @@
 ||ads-api-new-2052271615.ap-northeast-1.elb.amazonaws.com^
 ||adserver-1277986481.ap-northeast-1.elb.amazonaws.com^
 ||countly-pf-alb-1209451045.ap-northeast-1.elb.amazonaws.com^
+||ad-imp-1430749923.ap-northeast-2.elb.amazonaws.com^
+||ad-xc-alb-852146862.ap-northeast-2.elb.amazonaws.com^
 ||atom-video-log-collector-590234571.ap-northeast-2.elb.amazonaws.com^
 ||log-collector-alb-700647761.ap-northeast-2.elb.amazonaws.com^
 ||adserver-prod-alb-593070576.ap-south-1.elb.amazonaws.com^
@@ -4942,6 +4945,7 @@
 ||tracker-lb-78950488.ap-southeast-1.elb.amazonaws.com^
 ||uplynk-beacon-1914127361.ap-southeast-1.elb.amazonaws.com^
 ||wildcard-ads-303593808.ap-southeast-1.elb.amazonaws.com^
+||ad-interactions-prod-lb-799516835.ap-southeast-2.elb.amazonaws.com^
 ||nm-mb-collector-lb-2118323421.ap-southeast-2.elb.amazonaws.com^
 ||webanalytics-1823844529.ap-southeast-2.elb.amazonaws.com^
 ||muon-collector-kube-1510719261.ca-central-1.elb.amazonaws.com^
@@ -4975,11 +4979,14 @@
 ||prod-eu-pixel-collector-vpc-145135437.eu-west-1.elb.amazonaws.com^
 ||tau-collector-2141062151.eu-west-1.elb.amazonaws.com^
 ||wildcard-ads-1269115353.eu-west-1.elb.amazonaws.com^
+||ad-interactions-prod-lb-1426714899.eu-west-2.elb.amazonaws.com^
 ||fluidads-adserver-prod-364563465.eu-west-2.elb.amazonaws.com^
 ||adktracking-1671721947.eu-west-3.elb.amazonaws.com^
 ||br-ad-adserver-418405035.sa-east-1.elb.amazonaws.com^
 ||a47b-collector-alb-630215029.us-east-1.elb.amazonaws.com^
 ||a9e07f83-analytics-prodshr-378a-1458426690.us-east-1.elb.amazonaws.com^
+||ad-amgdgt-com-opt-out-servers-927272742.us-east-1.elb.amazonaws.com^
+||ad-interactions-prod-lb-1606894468.us-east-1.elb.amazonaws.com^
 ||adn-tktracking-virginia-621472495.us-east-1.elb.amazonaws.com^
 ||adn-tktracking-virginia2-179723988.us-east-1.elb.amazonaws.com^
 ||ads-1202260457.us-east-1.elb.amazonaws.com^
@@ -5065,6 +5072,7 @@
 ||uplynk-beacon-newvpc-1603485991.us-east-1.elb.amazonaws.com^
 ||wildcard-ads-new-1653986885.us-east-1.elb.amazonaws.com^
 ||wral-snowplow-collector-1139283751.us-east-1.elb.amazonaws.com^
+||ad-res-enduser-elb-1403295860.us-east-2.elb.amazonaws.com^
 ||adserver-front-1214293195.us-east-2.elb.amazonaws.com^
 ||adserver-prod-alb-447056987.us-east-2.elb.amazonaws.com^
 ||ana-collector-alb-us-iron-584374354.us-east-2.elb.amazonaws.com^
@@ -5080,6 +5088,11 @@
 ||ana-collector-alb-us-zinc-1612246868.us-west-1.elb.amazonaws.com^
 ||tracking-adtags-mobi-447994466.us-west-1.elb.amazonaws.com^
 ||uplynk-beacon-newvpc-2099835900.us-west-1.elb.amazonaws.com^
+||ad-elb-398458830.us-west-2.elb.amazonaws.com^
+||ad-particlenews-com-2-1579123584.us-west-2.elb.amazonaws.com^
+||ad-policy-1529808125.us-west-2.elb.amazonaws.com^
+||ad-tech-pyxis-2124195674.us-west-2.elb.amazonaws.com^
+||ad-tech-pyxis-uat-1649189048.us-west-2.elb.amazonaws.com^
 ||adserver-prod-alb-2114072997.us-west-2.elb.amazonaws.com^
 ||adserver-vpc-alb-0-2075095491.us-west-2.elb.amazonaws.com^
 ||adserver-vpc-alb-1-725730730.us-west-2.elb.amazonaws.com^
@@ -5108,6 +5121,8 @@
 ||vzw-analytics-elb-640016604.us-west-2.elb.amazonaws.com^
 ||wildcard-ads-448740142.us-west-2.elb.amazonaws.com^
 ||adserver-logmodule-prod-nlb-v14-dd325c09cc89d481.elb.eu-central-1.amazonaws.com^
+||ad-crew.s3.eu-central-1.amazonaws.com^
+||ad-host-backup-europe.s3.eu-central-1.amazonaws.com^
 ||adserver-media-files.s3.eu-central-1.amazonaws.com^
 ||prod-telemetry-10.s3.eu-central-1.amazonaws.com^
 ||prod-telemetry-10-archive.s3.eu-central-1.amazonaws.com^
@@ -5117,6 +5132,10 @@
 ||cirrus-full-snapshots-track-csv-v1-0-eu-prod.s3.eu-west-1.amazonaws.com^
 ||prod-ew1-telemetry-bucket.s3.eu-west-1.amazonaws.com^
 ||prod-ew1-telemetry-cs-bucket.s3.eu-west-1.amazonaws.com^
+||ad-prod.s3.me-south-1.amazonaws.com^
+||ad-auris-narration-audio.s3.amazonaws.com^
+||ad-backend-prod-flatfiles.s3.amazonaws.com^
+||ad-prod-getro.s3.amazonaws.com^
 ||admarvel.s3.amazonaws.com^
 ||adtechvideo.s3.amazonaws.com^
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^
@@ -5173,6 +5192,8 @@
 ||alexa-mobile-analytics-configuration-prod.s3.us-east-1.amazonaws.com^
 ||adserver-logmodule-prod-nlb-v14-3ff8db2709636bf5.elb.us-east-2.amazonaws.com^
 ||huq-query-loggers-california-3cec807da3e9dc0d.elb.us-west-1.amazonaws.com^
+||ad-host-backup-america.s3.us-west-1.amazonaws.com^
+||ad-miniblockcraft.s3.us-west-2.amazonaws.com^
 ||ads-prod-narrowcasting.s3.us-west-2.amazonaws.com^
 ||agari-ep-collector-config-prod.s3.us-west-2.amazonaws.com^
 ||mdx-ide-telemetry-staging.s3.us-west-2.amazonaws.com^
@@ -6350,7 +6371,6 @@
 ||aspignitean.com^
 ||aspireetopee.com^
 ||aspirerrehedge.life^
-||aspiringapples.com^
 ||aspiringattempt.com^
 ||aspiringtoy.com^
 ||aspm.jp^
@@ -10407,6 +10427,7 @@
 ||catsnbootsncats2020.com^
 ||catsnetwork.ru^
 ||catspawquitu.website^
+||catsunrunjam.com^
 ||catsys.jp^
 ||cattailaix.com^
 ||catwatchful.com^
@@ -11027,7 +11048,6 @@
 ||chignonrelics.com^
 ||chikepod.com^
 ||childlikecrowd.com^
-||childlikeexample.com^
 ||childlikeform.com^
 ||childperfunctoryhunk.com^
 ||childrenoftheclouds.com^
@@ -13945,6 +13965,7 @@
 ||andoldifiscqa.com.ua^
 ||info.anz.com.au^
 ||infos.anz.com.au^
+||securemetrics.apple.com.cn^
 ||securemvt.apple.com.cn^
 ||applepc.com.my^
 ||analytics.apps.com.tr^
@@ -19232,7 +19253,6 @@
 ||smetrics.dreamlabdata.com^
 ||securedata.dreamland.be^
 ||dreamsoppressive.com^
-||dreamycanyon.com^
 ||dreesfootler.uno^
 ||dressedfund.com^
 ||dressmakerdisturb.com^
@@ -20159,6 +20179,7 @@
 ||beacon.ehow.com^
 ||detnmz.ehow.com^
 ||ehpxmsqghx.xyz^
+||ehqaobjhna.com^
 ||ehqdzqi.com^
 ||metrics.ehrenkind.de^
 ||ehufgpp.com^
@@ -20901,7 +20922,6 @@
 ||etheappyrincerta.info^
 ||ethecityonata.com^
 ||ethecountryw.org^
-||ethereallagoon.com^
 ||matomo.ethereum.org^
 ||ethereum-pocket.com^
 ||kta.etherscan.com^
@@ -21952,7 +21972,6 @@
 ||fewcupboard.com^
 ||fewergkit.com^
 ||fewjuice.com^
-||fewkittens.com^
 ||images.mailaway.fewo-direkt.de^
 ||om.fewo-direkt.de^
 ||analyse.fewo-touristik.de^
@@ -22888,6 +22907,7 @@
 ||framemakers.us^
 ||wvvw.france24.com^
 ||l.francetvinfo.fr^
+||franciatirribi.com^
 ||francite.net^
 ||analytics.franconnect.net^
 ||smetrics.francosarto.com^
@@ -29177,6 +29197,7 @@
 ||metrics.jameda.de^
 ||jameser.com^
 ||jameslotz.com^
+||jamminds.com^
 ||jampp.com^
 ||jams.wiki^
 ||jamstech.store^
@@ -30439,7 +30460,6 @@
 ||kneylhewould.xyz^
 ||knigge.de^
 ||knigna.com^
-||knitstamp.com^
 ||knkkpmtdesg.com^
 ||knkqjmjyxzev.info^
 ||knkyszc.com^
@@ -34462,7 +34482,6 @@
 ||piwik.mondiamedia.com^
 ||api.monedata.io^
 ||monerise.com^
-||monero-miner.com^
 ||monerominer.rocks^
 ||moneroocean.stream^
 ||monet.com^
@@ -34627,7 +34646,6 @@
 ||motdgd.com^
 ||mother-sku.jp^
 ||motherhoodlimiteddetest.com^
-||motherison.com^
 ||motherlodebulldogclub.com^
 ||mothifta.xyz^
 ||motifiles.com^
@@ -34887,6 +34905,7 @@
 ||pstt.mtb-news.de^
 ||mtburn.com^
 ||mtcmilr.net^
+||adx-tk.mtgglobals.com^
 ||analytics.mtgglobals.com^
 ||ir-new-eu-west-1a-hb-bid-feedback.mtgglobals.com^
 ||ir-new-eu-west-1b-hb-bid-feedback.mtgglobals.com^
@@ -35053,6 +35072,7 @@
 ||sentry.mvk.com^
 ||mvlkvth.cn^
 ||mw19c3mi5a.com^
+||mwazhey.com^
 ||mwebsoft.com^
 ||mwfyab.icu^
 ||mwjlyzj.com^
@@ -36664,7 +36684,6 @@
 ||lu9xve2c97l898gjjxv4.noteabley.com^
 ||notebookmedicine.com^
 ||openx.notebookspec.com^
-||notecardpa.com^
 ||notesbook.in^
 ||notfiled.com^
 ||lu9xve2c97l898gjjxv4.notfries.com^
@@ -37245,7 +37264,6 @@
 ||officialskis.com^
 ||officialstovethemselves.com^
 ||intelligence.officialwesthamstore.com^
-||officialyeti.com^
 ||offloadingsite.com^
 ||offmantiner.com^
 ||offoonguser.com^
@@ -37356,7 +37374,6 @@
 ||ola.com^
 ||metric.corp.olacabs.com^
 ||olagamanas.com^
-||olajgarden.pl^
 ||olakoudos.xyz^
 ||log.olark.com^
 ||analytics.olay.com^
@@ -38255,7 +38272,6 @@
 ||outdilateinterrupt.com^
 ||outdoeslegacy.uno^
 ||outdoorroar.com^
-||outdoorscarpa.com^
 ||privacy.outdoorsg.com^
 ||outdoorwintersports.com^
 ||sfiycb.outerknown.com^
@@ -38272,7 +38288,6 @@
 ||revive.outin.cn^
 ||outlapdawn.live^
 ||outlet-alfresco.com^
-||outletsmm.com^
 ||outletsports.pl^
 ||outlieazafran.com^
 ||outlinesweatraces.com^
@@ -38720,6 +38735,7 @@
 ||info.parivedasolutions.com^
 ||parkautomaticallyinfallible.com^
 ||analytics.parkbee.com^
+||parkedcountdownallows.com^
 ||discover.parker.com^
 ||tracking.solutions.parker.com^
 ||parkingcrew.com^
@@ -39911,6 +39927,7 @@
 ||plista.com^
 ||pllah.com^
 ||plnshao.xyz^
+||plntxgh.com^
 ||log.plo.vn^
 ||plodrat.com^
 ||plof69.com^
@@ -42147,6 +42164,7 @@
 ||rapidhits.net^
 ||rapidkittens.com^
 ||marketing.rapidlockingsystem.com^
+||rapidlybeaver.com^
 ||rapidlylarrup.space^
 ||rapidpanda.io^
 ||website-security.rapidssl.com^
@@ -46796,6 +46814,7 @@
 ||spinalmultiple.com^
 ||spinbiased.com^
 ||spinbox1.com^
+||spinderirpe.com^
 ||spinna.online^
 ||spinna.shop^
 ||spinna.site^
@@ -48530,6 +48549,7 @@
 ||report.taptapdada.com^
 ||taptapnetworks.com^
 ||taptica.com^
+||tapulsads.ru^
 ||ads.tapzin.com^
 ||analytics.try.tarantool.io^
 ||metrics.target.com^
@@ -50051,6 +50071,7 @@
 ||toppmarkensverige.com^
 ||toprakmedia.com^
 ||toprevenuecpmnetwork.com^
+||toprevenuegate.com^
 ||toprevenuenetwork.com^
 ||ta.toprework.vn^
 ||topsexmovs.com^
@@ -50562,6 +50583,7 @@
 ||mv.treehousei.com^
 ||treenvest.com^
 ||placeholder.treeum.net^
+||treitrejewfish.com^
 ||trekachy.com^
 ||trekstereo.com^
 ||trellian.com^
@@ -54191,7 +54213,6 @@
 ||whfyhouse.com^
 ||whicus.com^
 ||whiletilth.com^
-||whimsicalgrove.com^
 ||whineshellcat.space^
 ||whiningbewildered.com^
 ||whipgos.com^
@@ -54432,6 +54453,7 @@
 ||api.wipmania.com^
 ||countly.wire.com^
 ||wirecomic.com^
+||c.wired.com^
 ||sstats.wired.com^
 ||wiredminds.de^
 ||wirelessdeficiencyenemies.com^
