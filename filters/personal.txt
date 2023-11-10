@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 09 Nov 2023 01:15 UTC
-! Version: 2023.1109.0115.27
+! Last modified: 10 Nov 2023 01:08 UTC
+! Version: 2023.1110.0108.49
 ! Syntax: AdBlock
-! Number of entries: 56870
+! Number of entries: 56924
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -32,6 +32,7 @@
 ||01220b75a7.com^
 ||93f9e9c378.0165672dd6.com^
 ||161b559488.016e6eadad.com^
+||01c70a2a06.com^
 ||01counter.com^
 ||securite.01net.com^
 ||01v62.xyz^
@@ -203,7 +204,6 @@
 ||123moviesfox.co^
 ||123moviesfoxs.com^
 ||123moviesgo.ga^
-||bdad.123pan.cn^
 ||123plays.com^
 ||matomo.123recht.de^
 ||123stat.com^
@@ -3601,6 +3601,7 @@
 ||afaceri-poligrafice.ro^
 ||afafevk.com^
 ||afaiphee.xyz^
+||afbhub.net^
 ||pixels.afcdn.com^
 ||s3t3d2y8.afcdn.net^
 ||afcnuchxgo.com^
@@ -5317,7 +5318,11 @@
 ||info.amplitude.com^
 ||api.lab.amplitude.com^
 ||api-internal.lab.amplitude.com^
+||api.0033sonar-004bapiadi0004statapitrust-005-blogradious.perf.amplitude.com^
+||api.0033sonar-004bapiadioaradioapi-webservices.perf.amplitude.com^
+||api.0033sonar-004bapiadioaradious.perf.amplitude.com^
 ||api-studentf-apiprod-sandboxsbx-004cf.perf.amplitude.com^
+||api.success8b-004bapiadioaradious.perf.amplitude.com^
 ||analytics.prod-sandbox.amplitude.com^
 ||regionconfig.amplitude.com^
 ||api.spinnaker.amplitude.com^
@@ -6638,6 +6643,8 @@
 ||audacity.fr^
 ||matomo.audacityteam.org^
 ||dcs.audi.com^
+||analytics.prod.audible.com^
+||metrics.prod.audible.com^
 ||r.audible.de^
 ||audiblysecretaryburied.com^
 ||audience.media^
@@ -6767,6 +6774,7 @@
 ||automatkredytowy.pl^
 ||automizely-analytics.com^
 ||data-9c90373be1.automobil-produktion.de^
+||piwik.automobile-catalog.com^
 ||b2b.automotive-mediaventions.nl^
 ||smetrics.autonews.com^
 ||s.autopilotapp.com^
@@ -7826,6 +7834,7 @@
 ||beffino.com^
 ||befirstcdn.com^
 ||befrx.com^
+||matomo.bega.de^
 ||begantotireo.xyz^
 ||beggarlyfilmingabreast.com^
 ||beggingoppida.space^
@@ -8111,6 +8120,7 @@
 ||sstats.bever.nl^
 ||beverleyprowlpreparing.com^
 ||bevuelabium.guru^
+||analytics.bevylabs.com^
 ||bewailblockade.com^
 ||bewailindigestionunhappy.com^
 ||analytics.bewakoof.com^
@@ -9833,7 +9843,20 @@
 ||gpm-mon-va.byteoversea.com^
 ||gpm-mon-va-useast1a.byteoversea.com^
 ||gpm-mon-va-useast2a.byteoversea.com^
+||tnc16-alihost2aglinuxalihostapwj.apollo.gts.byteoversea.com^
+||tnc16-alihost2aglinuxbds-sg.apollo.gts.byteoversea.com^
+||tnc16-alihost2agmcsbds-sg.apollo.gts.byteoversea.com^
 ||tnc16-alihost2agmcssg.apollo.gts.byteoversea.com^
+||tnc16-alihost2agmspringg.apollo.gts.byteoversea.com^
+||tnc16-alihost2agp19-tcscdncsbds-sg.apollo.gts.byteoversea.com^
+||tnc16-alihost2agaudsoftwaretsg.apollo-my-up.gts.byteoversea.com^
+||tnc16-alihost2agmcsbds-sg.apollo16-up.gts.byteoversea.com^
+||tnc16-alihostapwj-useast2allwj-useast2aagmcsbds-sg.apollo16-up.gts.byteoversea.com^
+||tnc16-alihtestsitest2agmcsbds-sg.aptestsitelltestsite.gts.byteoversea.com^
+||tnc16-alihost2agmcsbds-sg.english16-gtf-eapi-quic.gts.byteoversea.com^
+||tnc16-alihost2agmcsbds-sg.english16-up.gts.byteoversea.com^
+||tnc16-alihost2agmcslf16-tcc-tos-i18n-sg.english16-up.gts.byteoversea.com^
+||tnc16-alihost2agmcsbds-sg.images116-up.gts.byteoversea.com^
 ||tnc16-aliaddon2agcaaddon.gts.byteoversea.com^
 ||tnc16-alisg02aagmcssg.gts.byteoversea.com^
 ||tnc16-alisg2agawsbrwitbmotoslisg2tbmotossg.gts.byteoversea.com^
@@ -9846,15 +9869,21 @@
 ||tnc16-avistaisg2agmcssg.gts.byteoversea.com^
 ||tnc16-chatser2a-feedback.gts.byteoversea.com^
 ||tnc16-gridpp.gts.byteoversea.com^
+||tnc16-mon-sgcpreferencesmm.gts.byteoversea.com^
 ||tnc16-sf212agmcssg.gts.byteoversea.com^
+||tnc16-sfttnetagmcssg.gts.byteoversea.com^
 ||tnc16-task.gts.byteoversea.com^
 ||tnc16-tnc16-alstarlingg2a-ad-audit-proxy-hk2agmcssg.gts.byteoversea.com^
+||tnc16-tnc16-photoslisg2photos-p-photosuditerver-hk-hk.gts.byteoversea.com^
 ||tnc16-usallmssg2agmcssgr2a-fallmssg2agmcssgallmssg2agmcssgdback.gts.byteoversea.com^
 ||tnc16-user2a-feedback.gts.byteoversea.com^
 ||tnc16-user2a-globaleedback.gts.byteoversea.com^
 ||tnc16-user2a-sgcalihost22agmcshostmm.gts.byteoversea.com^
 ||tnc16-user2a-sgcomm.gts.byteoversea.com^
 ||tnc16-user2a-sgcpreferencesmm.gts.byteoversea.com^
+||tnc16-alihogame2agmcsbds-sg.tos-my16-up.gts.byteoversea.com^
+||tnc16-alihost2agmcsbds-sg.tos-my16-up.gts.byteoversea.com^
+||tnc16-alihostdigagmcsbds-sg.tos-my16-up.gts.byteoversea.com^
 ||log.byteoversea.com^
 ||log-tiktok.byteoversea.net^
 ||log15.byteoversea.com^
@@ -14245,6 +14274,7 @@
 ||manceretoldxa.com.ua^
 ||maonderndbeco.com.ua^
 ||telemetry.maptek.com.au^
+||marcusvalente.com.br^
 ||margaretriverhypnotherapy.com.au^
 ||marketingspace.com.ng^
 ||survey-staging.mazda.com.au^
@@ -15996,6 +16026,7 @@
 ||dalysb.com^
 ||dalysh.com^
 ||dalysv.com^
+||damaged-fix.pro^
 ||damageddistance.com^
 ||damdoor.com^
 ||dameadept.com^
@@ -18211,6 +18242,7 @@
 ||vry9.destinia.com^
 ||destroyedspear.com^
 ||destyy.com^
+||desugeng.xyz^
 ||desura.com^
 ||telemetry.deswik.com^
 ||detachmentoccasionedarena.com^
@@ -19154,6 +19186,7 @@
 ||download-campaign.com^
 ||download5s.com^
 ||downloadedsoftware.com^
+||downloading-free.com^
 ||downloadlocked.com^
 ||downloadmanagernow.com^
 ||downloadmobile.pro^
@@ -19438,6 +19471,7 @@
 ||duffelblog.com^
 ||dufrom.com^
 ||duftoagn.com^
+||dugapiece.com^
 ||dugheid.com^
 ||dugoutreport.com^
 ||analytics.dugun.com^
@@ -20520,6 +20554,7 @@
 ||encyclopediaaimless.com^
 ||encyclopediaresemblancerecant.com^
 ||endangersquarereducing.com^
+||endeavorh.com^
 ||endeavourcounter.com^
 ||endingdespond.uno^
 ||endingthefed.com^
@@ -21457,6 +21492,7 @@
 ||ed5183bc15.f22440fb7b.com^
 ||f27tltnd.de^
 ||f2fc0fce65.com^
+||f2svgmvts.com^
 ||4d416b311c.f3533a7f60.com^
 ||f3663618ff.com^
 ||f3abc0d1b3.com^
@@ -22026,6 +22062,7 @@
 ||fidelitybearer.com^
 ||fcone.fidelitycharitable.org^
 ||fctms.fidelitycharitable.org^
+||sentry.fidibo.net^
 ||oms.fido.ca^
 ||matomo.fieldmuseum.org^
 ||fieldofbachus.com^
@@ -22826,6 +22863,7 @@
 ||b.fox.com^
 ||analytics.nova.fox.com^
 ||axp.fox16.com^
+||axp.fox21news.com^
 ||axp.fox2now.com^
 ||axp.fox40.com^
 ||axp.fox4kc.com^
@@ -24376,6 +24414,7 @@
 ||gloodain.net^
 ||gloodsie.com^
 ||gloogeed.xyz^
+||analytics.glooko.com^
 ||glookup.info^
 ||gloorsie.com^
 ||gloos-zus.info^
@@ -25344,6 +25383,7 @@
 ||gussbkpr.website^
 ||data-1d11624658.gutekueche.de^
 ||data-29b3ebc284.gutekueche.de^
+||gutobtdagruw.com^
 ||r.gutscheinmailer24.de^
 ||gutsnights.com^
 ||guttiequashey.digital^
@@ -25645,6 +25685,7 @@
 ||harrenmedia.com^
 ||harrenmedianetwork.com^
 ||harretrips.digital^
+||iqyioj.harryanddavid.com^
 ||hartattenuate.com^
 ||hartbasketenviable.com^
 ||hartlyengland.com^
@@ -27171,6 +27212,7 @@
 ||ibdzief.com^
 ||ibeat-analytics.com^
 ||iberfoods.com^
+||ljn9.iberojet.com^
 ||smetrics.ibfd.org^
 ||ibgksw.xyz^
 ||ibidemkorari.com^
@@ -27964,6 +28006,7 @@
 ||statistics.infowap.info^
 ||infox.sg^
 ||infra.systems^
+||infractructurebiopsycircumstances.com^
 ||data-ef8760a9b2.infranken.de^
 ||data-f3bb5f7732.infranken.de^
 ||infreejobalert.com^
@@ -28046,6 +28089,7 @@
 ||innerskinresearch.com^
 ||innertrends.com^
 ||innessabigeat.space^
+||analytics.innews.gr^
 ||innewstyle.com^
 ||innity.com^
 ||innity.net^
@@ -28311,6 +28355,7 @@
 ||addb.interpark.com^
 ||interpersonalskillse.info^
 ||interpol.ws^
+||analytics.interpolis.nl^
 ||interpolls.com^
 ||interposedflickhip.com^
 ||interreklame.de^
@@ -29198,6 +29243,7 @@
 ||jameser.com^
 ||jameslotz.com^
 ||jamminds.com^
+||jampastey.com^
 ||jampp.com^
 ||jams.wiki^
 ||jamstech.store^
@@ -29426,6 +29472,7 @@
 ||jimalae.com^
 ||at.prod.jimdo.systems^
 ||jimlowry.com^
+||smetrics.jimmobile.be^
 ||jindier.com^
 ||tfcdn.jingmiuyyds.com^
 ||jinheart.xyz^
@@ -34217,6 +34264,7 @@
 ||mkt941.com^
 ||mktoresp.com^
 ||mktorest.com^
+||mkxucousrbaayfi.com^
 ||mky.com^
 ||etui.fs.ml.com^
 ||ml-attr.com^
@@ -34280,6 +34328,7 @@
 ||analytics.mncdigital.id^
 ||mndsrv.com^
 ||mnetads.com^
+||mneydirec.com^
 ||mng-ads.com^
 ||mngbqpz.cc^
 ||mnhknds.com^
@@ -34356,6 +34405,7 @@
 ||mobiletracking.ru^
 ||mobileverify.net^
 ||metric.acc.mobilevikings.be^
+||metric.acc-pub.mobilevikings.be^
 ||matomo.mobilism.org^
 ||apps.mobilityware.com^
 ||mobilyanizinegolden.com^
@@ -34666,6 +34716,7 @@
 ||matomo.motorpresse.de^
 ||plausible.motorpresse.de^
 ||data-c14a6b9c37.motorradonline.de^
+||data-cf56e4da9b.motorradonline.de^
 ||aserv.motorsgate.com^
 ||mstm.motorsport.com^
 ||data-2572d220f8.motorsport-total.com^
@@ -36241,6 +36292,7 @@
 ||next-pops.top^
 ||nextclick.pl^
 ||stats.nextcloud.com^
+||ads.nextday.media^
 ||accountlyconv.nextdirect.com^
 ||analytics.nextdoor.com^
 ||tracking.nextdoor.com^
@@ -36616,6 +36668,7 @@
 ||data-5ce6ecf8d0.nordbayern.de^
 ||data-be032ee936.nordbayern.de^
 ||ads.nordcurrent.com^
+||analytics.nordea.com^
 ||analytics.nordea.dk^
 ||analytics.nordea.se^
 ||data.info.nordea.no^
@@ -40096,6 +40149,7 @@
 ||polarlootstairwell.com^
 ||polarmobile.com^
 ||polenboeller-deutschland.com^
+||matomo.protectuk.police.uk^
 ||policeair.com^
 ||policityseriod.info^
 ||policycounsel.org^
@@ -40387,6 +40441,8 @@
 ||powerbiz.co^
 ||powercount.com^
 ||analytics.powerdms.com^
+||metrics.lua.powerdns.org^
+||metrics.powerdns.org^
 ||matomo.poweredbyefi.org^
 ||poweredbyliquidfire.mobi^
 ||powerfulcopper.com^
@@ -43224,7 +43280,6 @@
 ||metrics.shuttle.ring.com^
 ||ringadoctor.com^
 ||analytics.ringana.com^
-||ringantunai.com^
 ||analytics.ringcentral.ca^
 ||analytics.ringcentral.com^
 ||analytics.ringcentral.eu^
@@ -43828,6 +43883,7 @@
 ||rupor.info^
 ||ruptionverst.space^
 ||hz.ruptureboogum.com^
+||rural-patience.com^
 ||ruralrobin.com^
 ||rurber.com^
 ||rurbie.com^
@@ -43840,7 +43896,6 @@
 ||russellseemslept.com^
 ||russif.com^
 ||rustasik.ru^
-||rustgenerations.com^
 ||rusticaula.com^
 ||rusticsnoop.com^
 ||rustoria.ru^
@@ -44042,7 +44097,6 @@
 ||salealfresco.com^
 ||salecycle.com^
 ||analytics.salehcars.com^
-||salejimshore.com^
 ||salemove.com^
 ||saleoutlet.cl^
 ||saleplaymobil.com^
@@ -44154,7 +44208,6 @@
 ||sancang-movies.com^
 ||sancontr.com^
 ||sanctioned-suicide.net^
-||sanctioned-suicide.org^
 ||sanctionedsuicide.site^
 ||master.wap.dphub.sandai.net^
 ||etl-xlmc-ssl.sandai.net^
@@ -46982,6 +47035,7 @@
 ||pixel-prod2.sprinklr.com^
 ||sentry-prod.sprinklr.com^
 ||tracking-prod.sprinklr.com^
+||metric.ad.sprint.com^
 ||analytics.sprint.com^
 ||appmetrics.sprint.com^
 ||sanalytics.sprint.com^
@@ -48700,6 +48754,7 @@
 ||smetrics.teampages.com^
 ||teamsperilous.com^
 ||metrics.teamviewer.com^
+||tearfulglass.com^
 ||tearingdubnought.com^
 ||tearingflickermeaning.com^
 ||tearingreasoningempower.com^
@@ -48965,7 +49020,6 @@
 ||images1.test.de^
 ||testamenttakeoutkill.com^
 ||matomo.testaprildirect.com^
-||testerownia24h.pl^
 ||testin.cn^
 ||testingmetriksbre.ru^
 ||testisurbian.top^
@@ -49083,7 +49137,6 @@
 ||theandersonco.com^
 ||theardent.group^
 ||thearoids.com^
-||theathletefoot.nl^
 ||theathletsfoot.com^
 ||theatresintotales.com^
 ||track.thebase.in^
@@ -49351,7 +49404,6 @@
 ||tholteti.com^
 ||thomasbarlowpro.com^
 ||thomastorch.com^
-||thompaur.com^
 ||thompoot.com^
 ||info.thomsonlinear.com^
 ||analytics.thomsonreuters.com^
@@ -50376,6 +50428,7 @@
 ||traderprof.xyz^
 ||analytics.tradeshift.com^
 ||analytics.tradeskillmaster.com^
+||tradetooth.com^
 ||rotator.tradetracker.net^
 ||static.tradetracker.net^
 ||ti.tradetracker.net^
@@ -51366,7 +51419,6 @@
 ||page-events-ustats.udemy.com^
 ||udetqwj.com^
 ||udeztrb.cn^
-||udinugoo.com^
 ||udipedia.net^
 ||udkcrj.com^
 ||udmserve.net^
@@ -52156,7 +52208,6 @@
 ||hcjpbc.usmagazine.com^
 ||usnese.com^
 ||usnewoutdoor.com^
-||usnewoutdoors.com^
 ||usocial.pro^
 ||usokps.com^
 ||usonar.jp^
@@ -52710,6 +52761,7 @@
 ||stats.viddler.com^
 ||adat.videa.hu^
 ||video-adblock.com^
+||metrics.video-dns.com^
 ||ad.video-mech.ru^
 ||video-r.com^
 ||video-serve.com^
@@ -53054,6 +53106,7 @@
 ||r1.visualwebsiteoptimizer.com^
 ||r2.visualwebsiteoptimizer.com^
 ||r3.visualwebsiteoptimizer.com^
+||rec5.visualwebsiteoptimizer.com^
 ||visx.net^
 ||vitabri.com^
 ||bhawtp.vitacost.com^
@@ -56681,6 +56734,7 @@
 ||znnodl.xyz^
 ||znqip.net^
 ||znrtfj.xyz^
+||znwzcmd.cn^
 ||znyjmbh.icu^
 ||zoadoash.net^
 ||zoawufoy.net^
