@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Nov 2023 00:42 UTC
-! Version: 2023.1112.0042.37
+! Last modified: 12 Nov 2023 12:47 UTC
+! Version: 2023.1112.1247.31
 ! Syntax: AdBlock
-! Number of entries: 56947
+! Number of entries: 56975
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -346,6 +346,7 @@
 ||1clic1don.fr^
 ||1clickspyclean.com^
 ||1cpbac.ru^
+||1cpkcnm.com^
 ||1cros.net^
 ||89eff626ff.1d12e1e0de.com^
 ||1dmp.io^
@@ -475,6 +476,7 @@
 ||2144.com^
 ||2158novffp.com^
 ||218emo1t.de^
+||21hn4b64m.de^
 ||22081b1c58.com^
 ||2222.ro^
 ||2222mb.com^
@@ -987,6 +989,7 @@
 ||3ddown.com^
 ||3deepspace.com^
 ||3devilattack.net^
+||3dfcff2ec15099df0a24ad2cee74f21a.com^
 ||3dh9y.com^
 ||ad.3dnews.ru^
 ||ad.3dpop.kr^
@@ -5322,11 +5325,15 @@
 ||info.amplitude.com^
 ||api.lab.amplitude.com^
 ||api-internal.lab.amplitude.com^
+||api.0033sonar-004api-academysbx-0globaleadioaradious.perf.amplitude.com^
 ||api.0033sonar-004bapiadi0004statapitrust-005-blogradious.perf.amplitude.com^
 ||api.0033sonar-004bapiadioaradioapi-webservices.perf.amplitude.com^
 ||api.0033sonar-004bapiadioaradious.perf.amplitude.com^
+||api.0033sonar-imappi-academysbx-0globaleadioaradious.perf.amplitude.com^
+||api-000-testdata-gss004eoneerawards-sbx-005082productiwwwm9.perf.amplitude.com^
 ||api-studentf-apiprod-sandboxsbx-004cf.perf.amplitude.com^
 ||api.success8b-004bapiadioaradious.perf.amplitude.com^
+||api.toneec0004statsuccessustoudards.perf.amplitude.com^
 ||analytics.prod-sandbox.amplitude.com^
 ||regionconfig.amplitude.com^
 ||api.spinnaker.amplitude.com^
@@ -6160,6 +6167,7 @@
 ||arlento.pl^
 ||marketing.arlington.org^
 ||armahouse.com^
+||armanet.co^
 ||armedtidying.com^
 ||armhoopcoinage.com^
 ||armi.media^
@@ -8670,6 +8678,7 @@
 ||analytics-batch.blitz.gg^
 ||blitzen.com^
 ||pixel.blivenyc.com^
+||metrics.blizzard.com^
 ||bloatrome.com^
 ||blobjournalistunwind.com^
 ||bloblohub.com^
@@ -9548,7 +9557,7 @@
 ||btccryptochain.com^
 ||btcnews.one^
 ||btctrade.lol^
-||track.btdmp.com^
+||btdmp.com^
 ||btdnav.com^
 ||btescs.fun^
 ||btez8.xyz^
@@ -10330,7 +10339,6 @@
 ||beacon.carfax.com^
 ||cclink.carfax.com^
 ||smetrics.carfax.com^
-||cargoconnect.online^
 ||cargodisplayads.com^
 ||cargotrustcourier.com^
 ||sowa.carhartt.com^
@@ -13206,7 +13214,6 @@
 ||ads3.bangkokpost.co.th^
 ||smetrics.barclays.co.uk^
 ||metrics.bax-shop.co.uk^
-||a1.api.bbc.co.uk^
 ||stats.bbc.co.uk^
 ||gn-flagpoles.api.bbci.co.uk^
 ||r.bbci.co.uk^
@@ -14559,6 +14566,7 @@
 ||logger.uol.com.br^
 ||adrequisitor-af.lp.uol.com.br^
 ||uploaddeimagens.com.br^
+||usinadevendas.com.br^
 ||piwik.vdk-service.com.ua^
 ||viam.com.vn^
 ||virtualgraffiti.com.au^
@@ -16295,6 +16303,7 @@
 ||datingkoen.site^
 ||datinglocal.life^
 ||datingmeetnet.com^
+||datingpush.space^
 ||datingsplace.life^
 ||datingtoday.top^
 ||datingtopgirls.com^
@@ -16527,6 +16536,7 @@
 ||decided-decision.com^
 ||decidedlylipstick.com^
 ||decidedrum.com^
+||decideinteractive.com^
 ||analytics.decisionresourcesgroup.com^
 ||decisivebase.com^
 ||decisivebottledhappen.com^
@@ -22062,6 +22072,7 @@
 ||app.bncontacto.fi.cr^
 ||images.bncontacto.fi.cr^
 ||images.info.coopenae.fi.cr^
+||activos.contacto.promerica.fi.cr^
 ||fiatgrabbed.com^
 ||ficinhubcap.com^
 ||content.fico.com^
@@ -23013,6 +23024,7 @@
 ||freedatinghookup.com^
 ||freeddns.uk^
 ||info.freedom-iot.com^
+||freedomadnetwork.com^
 ||strack.freedommobile.ca^
 ||telemetry.freedomscientific.com^
 ||freeexchange.ru^
@@ -23401,6 +23413,7 @@
 ||fwsoviw.com^
 ||fwtrck.com^
 ||fwukoulnhdlukik.info^
+||fwwvachfbbmpim.xyz^
 ||fwzvlp.xyz^
 ||fx-trend.com^
 ||fxbmrgm.net^
@@ -26931,6 +26944,7 @@
 ||countly.zz.hubs.vn^
 ||matomo.zz.hubs.vn^
 ||metrics-fe-na1.hubspot.com^
+||158743g43.secure0034.hubspot.net^
 ||track.hubspot.com^
 ||tracking.hubspot.com^
 ||hubspotfeedback.com^
@@ -27258,6 +27272,7 @@
 ||analytics.icevonline.com^
 ||report.iciba.com^
 ||report2.iciba.com^
+||smetrics.icicibank.com^
 ||icicleriskfence.com^
 ||icilyassertiveindoors.com^
 ||icilytired.com^
@@ -27290,6 +27305,7 @@
 ||icpadv.com^
 ||icvsleec.xyz^
 ||icwb.com^
+||icwnix.icu^
 ||icxcrnciutiltaf.com^
 ||static.icyads.com^
 ||icyporno.com^
@@ -28054,6 +28070,7 @@
 ||initialbanisters.com^
 ||initiallycoffee.com^
 ||initiallycompetitionunderwear.com^
+||initiallydoze.com^
 ||initiatebuffetstump.com^
 ||initiatespeedyextremelyinfo-product.info^
 ||initiative-deutschland.net^
@@ -30767,6 +30784,7 @@
 ||track.ksta.de^
 ||t.kstatesports.com^
 ||adbsmetrics.kt.com^
+||metric.callbox.kt.com^
 ||kt5850pjz0.com^
 ||axp.ktalnews.com^
 ||analytics.sys.kth.se^
@@ -35816,7 +35834,6 @@
 ||matomo.lib.ncsu.edu^
 ||apinas.nct.vn^
 ||nct2-logging.nct.vn^
-||ncucsprojects.com^
 ||ndandinter.hair^
 ||ndctmns.com^
 ||ndds0001.com^
@@ -40041,6 +40058,7 @@
 ||smetrics.plymouthrock.com^
 ||analytics.pm-srv.co^
 ||pm0.net^
+||pm14.com^
 ||marketing.pmanetwork.com^
 ||pmaxarif.online^
 ||iabusprivacy.pmc.com^
@@ -41411,6 +41429,7 @@
 ||pushspring.com^
 ||pushssp.top^
 ||pushstack.it^
+||metrics.us.pushtech.com^
 ||pushtide.com^
 ||pushtimize.com^
 ||pushtorm.net^
@@ -42462,6 +42481,7 @@
 ||smetrics.realsimple.com^
 ||realsrv.com^
 ||realsrvcdn.com^
+||marketing.realstorygroup.com^
 ||ads.realt.ua^
 ||realtechnetwork.com^
 ||realtime-bid.com^
@@ -42560,6 +42580,7 @@
 ||recoverystalbans.com^
 ||recreativ.com^
 ||recreativ.ru^
+||recrihertrettons.com^
 ||recruitburp.com^
 ||widgets.recruitology.com^
 ||recruitresidebitterness.com^
@@ -44461,6 +44482,7 @@
 ||t.scarletknights.com^
 ||scarofnght.com^
 ||scarwan.com^
+||scashwl.com^
 ||scatterdisagreeabledealer.com^
 ||scatteredheat.com^
 ||scatteredstream.com^
@@ -44692,7 +44714,6 @@
 ||om.sears.com^
 ||som.sears.com^
 ||smetrics.seasearcher.com^
-||seasonalllc.com^
 ||smetric.seasons52.com^
 ||seasonsofficial.com^
 ||seasslinger.guru^
@@ -46635,6 +46656,7 @@
 ||soom.la^
 ||t.soonersports.com^
 ||soopsulo.xyz^
+||sooqr.com^
 ||sootconform.com^
 ||sopalk.com^
 ||soperson.com^
@@ -46675,6 +46697,7 @@
 ||sotchoum.com^
 ||sotetahe.pro^
 ||smetrics.sothebys.com^
+||admin.sothuchi.vn^
 ||sottagejalur.uno^
 ||sotuktraffic.com^
 ||smetrics.sotyktu.com^
@@ -50071,6 +50094,7 @@
 ||toolsthwartgrim.com^
 ||toolsyjejune.com^
 ||toolsyjejunen.com^
+||toolughitilagu.com^
 ||toomine.net^
 ||r.tooplay.com^
 ||toothbrushconceitedsemi.com^
@@ -50857,6 +50881,7 @@
 ||ads5-noneu.truecaller.com^
 ||batchlogging4-eu.truecaller.com^
 ||batchlogging4-noneu.truecaller.com^
+||outline.truecaller.com^
 ||pushid-noneu.truecaller.com^
 ||trueffect.com^
 ||analytics.truefoodkitchen.com^
@@ -52236,7 +52261,6 @@
 ||usounoul.com^
 ||inres.uspech.sk^
 ||usplussports.com^
-||usptrackda.top^
 ||ussive.com^
 ||ussportabout.com^
 ||ussportpioneer.com^
@@ -52703,6 +52727,7 @@
 ||vgxhvt.xyz^
 ||ssc.vh1.com^
 ||wt.vhb.de^
+||vhhxnb.xyz^
 ||vhjxrj.xyz^
 ||web.m182.vhostgo.com^
 ||vhsutpgui.xyz^
@@ -53163,6 +53188,7 @@
 ||vivozebra.pl^
 ||analytics.vivun.com^
 ||vivuple.xyz^
+||analytics.vixcloud.at^
 ||analytics.vixcloud.bz^
 ||sstats.vizergy.com^
 ||vizhtd.xyz^
@@ -53363,6 +53389,7 @@
 ||concertads-configs.vox-cdn.com^
 ||analytics.voxcinemas.com^
 ||telemetry.voxeet.com^
+||voxjvytmisj.com^
 ||phonograph2.voxmedia.com^
 ||targeting.voxus.tv^
 ||metrics.voyage-prive.com^
@@ -53601,7 +53628,6 @@
 ||explore.walkerdunlop.com^
 ||walkerllaw.org^
 ||walkernewspapers.com^
-||walkinglate.com^
 ||walkingtutor.com^
 ||walkinshoe.com^
 ||analytics.walkme.com^
@@ -53814,6 +53840,7 @@
 ||axp.wbtw.com^
 ||wbwiki.com^
 ||metrics-a.wbx2.com^
+||wbzfybvl.com^
 ||wcdc5.com^
 ||wcfbc.net^
 ||axp.wcia.com^
@@ -55153,6 +55180,7 @@
 ||xandr.com^
 ||xapads.com^
 ||xapkgame.com^
+||click-rtb2-apac.xaprio.net^
 ||rtb2-apac.xaprio.net^
 ||rtb2-eu.xaprio.net^
 ||rtb2-useast.xaprio.net^
