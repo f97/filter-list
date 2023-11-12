@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 11 Nov 2023 12:42 UTC
-! Version: 2023.1111.1242.24
+! Last modified: 12 Nov 2023 00:42 UTC
+! Version: 2023.1112.0042.37
 ! Syntax: AdBlock
-! Number of entries: 56934
+! Number of entries: 56947
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -838,6 +838,7 @@
 ||2trafficcmpny.com^
 ||2trk.info^
 ||2ts55ek00.de^
+||2u3v4w5x6y.com^
 ||d.2uha.net^
 ||2x2mfeed.com^
 ||2xclick.ru^
@@ -3574,6 +3575,7 @@
 ||updates.aem.org^
 ||aemmfiu.cc^
 ||aeneasclosure.website^
+||matomo.aeneria.com^
 ||metrics.aeon.co^
 ||aeonasco.com^
 ||images.aepinfo.com^
@@ -5640,6 +5642,7 @@
 ||cllctr.any.run^
 ||counter.any.run^
 ||any2st777fhy.com^
+||p.anyant.com^
 ||anybodyopenfind.com^
 ||anyclip.com^
 ||anydebrid.com^
@@ -9237,6 +9240,7 @@
 ||braiderichu.guru^
 ||braidformulathick.com^
 ||braidprosecution.com^
+||stat.brain-appeal.com^
 ||lu9xve2c97l898gjjxv4.brain-sharper.com^
 ||braincash.com^
 ||brainient.com^
@@ -10916,6 +10920,7 @@
 ||chargeplatform.com^
 ||chargesimmoderatehopefully.com^
 ||charicymill.com^
+||matomo.charite.de^
 ||charitydestinyscornful.com^
 ||charityflopchristening.com^
 ||charitylov.com^
@@ -14494,6 +14499,7 @@
 ||piwik.spacex.com.pl^
 ||spiidgas.com.br^
 ||analytics.spun.com.br^
+||atomo.sq.com.ua^
 ||steamcommunity.com.ru^
 ||smetrics.stgeorge.com.au^
 ||analytics.stiystil.com.ua^
@@ -16537,6 +16543,7 @@
 ||declinedmaniacminister.com^
 ||declinelotterymitten.com^
 ||declk.com^
+||macaron-cookie-data.decms.eu^
 ||decoding.at^
 ||decomposedismantle.com^
 ||decorationguinea.com^
@@ -19423,6 +19430,7 @@
 ||dtiserv.com^
 ||dtiserv2.com^
 ||dtjhtp.xyz^
+||advert.dtkt.ua^
 ||dtljuqw.net^
 ||dtmd.ru^
 ||dtmpub.com^
@@ -22590,6 +22598,7 @@
 ||smetrics.fnac.es^
 ||smetrics.fnac.pt^
 ||matomo.fnaim.fr^
+||fnasmpygwa.com^
 ||fnbauniukvi.com^
 ||fndrsp.net^
 ||countly.fnf.com^
@@ -22971,6 +22980,7 @@
 ||frauen-zum-ficken.com^
 ||frayedpause.com^
 ||frayvehemently.com^
+||abw.fraza.ua^
 ||frbyvuxzvmqpb.com^
 ||frcpth.xyz^
 ||tq.frdjs-1.co^
@@ -26742,18 +26752,7 @@
 ||hottercensorbeaker.com^
 ||sanalytics.hottopic.com^
 ||vdkjfd.hottopic.com^
-||fr34.hottracker.biz^
-||fr35.hottracker.biz^
-||fr36.hottracker.biz^
-||fr37.hottracker.biz^
-||fr42.hottracker.biz^
-||fr43.hottracker.biz^
-||usa11-2.hottracker.biz^
-||usa12.hottracker.biz^
-||usa13.hottracker.biz^
-||usa17.hottracker.biz^
-||usa18.hottracker.biz^
-||usa19.hottracker.biz^
+||hottracker.biz^
 ||hotwildadult.com^
 ||om.hotwire.com^
 ||som.hotwire.com^
@@ -29323,6 +29322,7 @@
 ||ttmetrics.jcpenney.com^
 ||smetrics.jcrew.com^
 ||jcswcd.com^
+||stats.jcubic.pl^
 ||jcvty.cyou^
 ||jcwtml.icu^
 ||jcyjly.com^
@@ -31655,6 +31655,7 @@
 ||ligatessuspend.top^
 ||ligatus.com^
 ||ligatus.de^
+||ads.ligazakon.net^
 ||ligeia-gip.com^
 ||lighes.com^
 ||lightcushion.com^
@@ -31847,6 +31848,7 @@
 ||eroar.lionsclubs.org^
 ||matomo.liontravel.com^
 ||lipsate.com^
+||stats.liqd.net^
 ||liquidapprovaltar.com^
 ||liquidfire.mobi^
 ||clarity.liquidweb.com^
@@ -32712,6 +32714,7 @@
 ||metrics.macys.com^
 ||send.mad-infeed.jp^
 ||madadsmedia.com^
+||stats.madbob.org^
 ||madcpms.com^
 ||maddenbusy.com^
 ||maddeningpowder.com^
@@ -36832,6 +36835,7 @@
 ||npmjsregister.com^
 ||npnzfri.xyz^
 ||atconnect.npo.nl^
+||ccm.npo.nl^
 ||topspin.npo.nl^
 ||npracticalwhic.buzz^
 ||npracticalwhich.com^
@@ -36943,6 +36947,7 @@
 ||nuggetscrore.life^
 ||telemetry.nugs.net^
 ||nui.media^
+||nukeluck.net^
 ||null-point.com^
 ||nullboatloo.com^
 ||nullitics.com^
@@ -37826,6 +37831,7 @@
 ||openeye.openmods.info^
 ||matomo.openmole.org^
 ||analytics.openobjects.com^
+||stats.openparliament.tv^
 ||telemetry.openpolicyagent.org^
 ||matomo.openpr.com^
 ||rtb-apac.openrtb.in^
@@ -39040,6 +39046,7 @@
 ||pdf-filer.com^
 ||tracking.pdf-tool.com^
 ||analytics.pdf24.org^
+||hub.pdf4teachers.org^
 ||analytic.pdfarchitect.org^
 ||pdfconverttools.com^
 ||pdffiller-review.com^
@@ -41090,6 +41097,7 @@
 ||scripts.psyma.com^
 ||analytics.psynet.gg^
 ||analytics.internal.psynet.gg^
+||sentry.pszn.cz^
 ||pt-trx.com^
 ||analytics.pt-x.com^
 ||pt0zhwhc26.ru^
@@ -41655,6 +41663,7 @@
 ||qoopler.ru^
 ||qooqle.top^
 ||qopzmao.com^
+||qoqoangry.com^
 ||qoqv.com^
 ||qortex.ai^
 ||qoutec.shop^
@@ -44516,6 +44525,7 @@
 ||analytics.scielo.org^
 ||smetrics.science.org^
 ||smetrics.sciencecareers.org^
+||ws.sciences-po.fr^
 ||detnmz.sciencing.com^
 ||scientiamobile.com^
 ||views.scientific-python.org^
@@ -47203,6 +47213,7 @@
 ||app.ratingsinfo.standardandpoors.com^
 ||plausible.standardnotes.com^
 ||standardresearchjournals.org^
+||standartnews.eu^
 ||standclick.com^
 ||standingnest.com^
 ||standingsack.com^
@@ -49789,6 +49800,7 @@
 ||metrics.timewarnercable.com^
 ||adx.timewit.cn^
 ||data.promo.timhortons.ca^
+||matomo.fra3.timi.cz^
 ||timingbitternessgreasy.com^
 ||timot-cvk.info^
 ||timoteonager.com^
@@ -52374,6 +52386,7 @@
 ||vaknveb.com^
 ||valack.com^
 ||news.valawyersweekly.com^
+||valerieurania.com^
 ||valetedmasaris.website^
 ||valetta.pl^
 ||valeuceplangka.com^
