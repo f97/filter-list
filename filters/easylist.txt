@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 202311121849
+! Version: 202311121903
 ! Title: EasyList
-! Last modified: 12 Nov 2023 18:49 UTC
+! Last modified: 12 Nov 2023 19:03 UTC
 ! Expires: 4 days (update frequency)
 ! *** easylist:template_header.txt ***
 ! 
@@ -18097,6 +18097,7 @@ _800x80_
 ##.playwire-article-leaderboard-ad
 ##.pmc-contextual-player
 ##.pop-out-eplayer-container
+##.primis-ad
 ##.primis-ad-wrap
 ##.primis-custom
 ##.primis-player
@@ -18267,6 +18268,7 @@ _800x80_
 ###taboola-footer-ad
 ###taboola-main-container
 ###taboola-mid-article-thumbnails
+###taboola-mid-article-thumbnails-ii
 ###taboola-mobile-article-thumbnails
 ###taboola-placeholder
 ###taboola-right-rail
@@ -62830,6 +62832,7 @@ unsplash.com##div[data-ad="true"]
 999thehawk.com##div[data-alias="Sweetjack"]
 walmart.ca##div[data-automation^="HookLogicCarousel"]
 reddit.com##div[data-before-content="advertisement"]
+artforum.com##div[data-component="ad-unit-gallery"]
 theverge.com##div[data-concert]
 bedbathandbeyond.com##div[data-cta="plpSponsoredProductClick"]
 gamingbible.com,unilad.com##div[data-cypress^="sticky-header"]
