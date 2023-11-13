@@ -20,7 +20,7 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 
 | Name                             | URL                                                                                                                         |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
-| f97.xyz | https://raw.githubusercontent.com/f97/filter-list/master/f97.txt |
+| f97.xyz                          | <https://raw.githubusercontent.com/f97/filter-list/master/f97.txt>                                                          |
 | OISD Big List                    | <https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt>                                                           |
 | VNM: ABPVN List                  | <https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt>                                                     |
 | Bigdargon - hostsVN              | <https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts>                                                          |

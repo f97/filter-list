@@ -1,0 +1,27 @@
+!
+! Title: f97.xyz
+! Homepage: f97/filter-list
+! License: GPLv3
+! Last modified: 2023-11-13T06:26:18.789Z
+!
+
+-consent-banner-
+-consent-banner.
+-cookie-banner.
+-cookie-bar.
+-cookie-consent.js
+-cookie-dialog.
+-cookie-notice-
+-cookie-popup.
+-gdpr-min.js
+-rodo.min.js
+.cookiesdirective.js
+.EuCookieCompliance.min.js
+.gdpr.js
+.gdpr.min
+.PrivacyDataNotice.
+.uk-cookie-consent-js.js
+||cmp.uniconsent.com^
+||consent.cmp.oath.com^
+||gdpr-api.sharethis.com^
+||imgs.signifyd.com^
