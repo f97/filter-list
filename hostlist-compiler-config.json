@@ -119,12 +119,6 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "GoodbyeAds AdBlock Filter",
-      "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
       "name": "Easy List",
       "source": "https://easylist.to/easylist/easylist.txt",
       "type": "adblock",
