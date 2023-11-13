@@ -48,4 +48,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Pi Hole Smart TV                 | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt>                          |
 | Pi Hole Smart Phone              | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt>                        |
 | Anti AD Domains                  | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt>                             |
-| Notrack Blocklists |https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list|
+| Notrack Blocklists               | <https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list>                                                  |
