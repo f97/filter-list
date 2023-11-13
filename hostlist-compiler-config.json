@@ -41,12 +41,6 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "Easylist Cookie List",
-      "source": "https://secure.fanboy.co.nz/fanboy-cookiemonster.txt",
-      "type": "hosts",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
       "name": "Adguard Cookie List",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt",
       "type": "hosts",
