@@ -40,7 +40,6 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | NextDNS Privacy - Windows        | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows>                                    |
 | NextDNS Privacy - Xiaomi         | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi>                                     |
 | 1Hosts (mini)                    | <https://o0.pages.dev/mini/adblock.txt>                                                                                     |
-| GoodbyeAds AdBlock Filter        | <https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt>                        |
 | EasyList                         | <https://easylist.to/easylist/easylist.txt>                                                                                 |
 | Smart-TV Blocklist               | <https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt>                                         |
 | Anti-AD                          | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-adguard.txt>                             |
