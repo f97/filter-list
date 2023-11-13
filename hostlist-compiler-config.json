@@ -161,6 +161,12 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "Anti AD Domains",
+      "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "f97.xyz",
       "source": "https://raw.githubusercontent.com/f97/filter-list/master/f97.txt",
       "type": "adblock",
