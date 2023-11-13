@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 12 Nov 2023 12:47 UTC
-! Version: 2023.1112.1247.31
+! Last modified: 13 Nov 2023 00:57 UTC
+! Version: 2023.1113.0057.55
 ! Syntax: AdBlock
-! Number of entries: 56975
+! Number of entries: 56979
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -6475,7 +6475,6 @@
 ||asyledieses.com^
 ||asylumclogunaccustomed.com^
 ||clarity.at.sky^
-||at-o.net^
 ||atableofcup.com^
 ||atallcolumnstood.info^
 ||analytics.esa.atanar.net^
@@ -8533,7 +8532,6 @@
 ||biturl.co^
 ||bixinlive.com^
 ||biyunhui.com^
-||s.biz.vn^
 ||resources.biz-tech-insights.com^
 ||analytics.bizao.com^
 ||analytics.bizbudding.com^
@@ -11110,6 +11108,7 @@
 ||metrics.chilliconnect.com^
 ||telemetry.chillicream.com^
 ||chimamanndgaocozmi.com^
+||chimbsbuckle.com^
 ||chimneylurdane.com^
 ||chimpcity.com^
 ||chimpstatic.com^
@@ -12583,6 +12582,7 @@
 ||d3lk5upv0ixky2.cloudfront.net^
 ||d3llu4686fshym.cloudfront.net^
 ||d3ln1qrnwms3rd.cloudfront.net^
+||d3lqotgbn3npr.cloudfront.net^
 ||d3lu45piikoyqh.cloudfront.net^
 ||d3luypns9uh4a4.cloudfront.net^
 ||d3lvr7yuk4uaui.cloudfront.net^
@@ -13089,6 +13089,7 @@
 ||stat.cncenter.cz^
 ||tracker.cncenter.cz^
 ||cncpt.dk^
+||cncpt-central.com^
 ||cncptx.com^
 ||cnctddot.com^
 ||analytics.cnd-motionmedia.de^
@@ -13217,7 +13218,6 @@
 ||stats.bbc.co.uk^
 ||gn-flagpoles.api.bbci.co.uk^
 ||r.bbci.co.uk^
-||ati-a1.946d001b783803c1.xhst.bbci.co.uk^
 ||smetrics.beefeater.co.uk^
 ||benlandscaping.co.uk^
 ||ext.bhol.co.il^
@@ -14668,7 +14668,6 @@
 ||comelybeefyage.com^
 ||comementran.info^
 ||smetrics.comenity.net^
-||mercado.pago.hoje.comercial.ws^
 ||comercialadvance.com^
 ||comermormal.com^
 ||cometlytrack.com^
@@ -21230,6 +21229,7 @@
 ||smart-placements-sdk.ex.co^
 ||exaccess.ru^
 ||exacdn.com^
+||cdn.exactag.com^
 ||exactconfigurationhasten.com^
 ||exactdrive.com^
 ||analytics.exacti.us^
@@ -25929,6 +25929,7 @@
 ||heartbrokenbarrellive.com^
 ||heartchakracheckup.com^
 ||hearthinfuriate.com^
+||stats.hearthis.at^
 ||metrics.hearthsim.net^
 ||heartilyfootindebted.com^
 ||heartilyscales.com^
@@ -28487,6 +28488,7 @@
 ||at.iocnt.net^
 ||at-w-atderstand-relay.iocnt.net^
 ||at-w-atkrone-relay.iocnt.net^
+||at-w-atnetdok-relay.iocnt.net^
 ||at-w-atorf-relay.iocnt.net^
 ||augsallg-relay.iocnt.net^
 ||aumospo-relay.iocnt.net^
@@ -36042,6 +36044,7 @@
 ||netcrew-analysis.jp^
 ||netdirect.nl^
 ||analytics.netdirector.auto^
+||data-1fef8558fa.netdoktor.at^
 ||data-9dc3fcd9b4.netdoktor.de^
 ||data-fbb8842b89.netdoktor.de^
 ||stats.netdriven.com^
@@ -37710,6 +37713,7 @@
 ||e.aa.online-metrix.net^
 ||eu-aa.online-metrix.net^
 ||h.online-metrix.net^
+||tracking.online-trainer-lizenz.de^
 ||online812.ru^
 ||onlineadid.com^
 ||onlinecash.com^
@@ -38606,6 +38610,7 @@
 ||pagecount.com^
 ||pagefair.com^
 ||analytics.pagefly.io^
+||pagejunky.com^
 ||pagerank.fr^
 ||revanced-apks.pages.dev^
 ||vebo-vast.pages.dev^
@@ -43127,6 +43132,7 @@
 ||revenuestripe.com^
 ||revenuewire.net^
 ||event-api.reverb.com^
+||reverbstuffing.com^
 ||analytics.reverseads.info^
 ||reverside.online^
 ||reversionhubbypole.com^
@@ -47490,6 +47496,7 @@
 ||stiffgame.com^
 ||stigat.com^
 ||stigmuuua.xyz^
+||tracking.stihl.de^
 ||stilaed.com^
 ||stilaikr.com^
 ||stilbmolted.com^
@@ -51212,6 +51219,7 @@
 ||matomo.tweddle.com^
 ||stats.debatdirect.tweedekamer.nl^
 ||tweedygirly.com^
+||twelfthdistasteful.com^
 ||twelvethighpostal.com^
 ||twentiethparticipation.com^
 ||twentyexaggerate.com^
@@ -53796,10 +53804,6 @@
 ||wawadoga.com^
 ||wawhairt.net^
 ||collector.wawlabs.com^
-||karaca.wawlabs.com^
-||mediamarkt-ch.wawlabs.com^
-||mm.wawlabs.com^
-||teknosa.wawlabs.com^
 ||waxapushlite.com^
 ||waxapushlite.info^
 ||analytics.waxdigital.com^
