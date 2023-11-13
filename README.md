@@ -20,9 +20,11 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 
 | Name                             | URL                                                                                                                         |
 | -------------------------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| f97.xyz | https://raw.githubusercontent.com/f97/filter-list/master/f97.txt |
 | OISD Big List                    | <https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt>                                                           |
 | VNM: ABPVN List                  | <https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt>                                                     |
 | Bigdargon - hostsVN              | <https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts>                                                          |
+| FMSF 2                           | <https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt>                                                    |
 | NoCoin Filter List               | <https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt>                                          |
 | Coin Blocker Lists               | <https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser>                                                                 |
 | Adguard Cookie List              | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt> |
@@ -46,4 +48,3 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Pi Hole TikTok                   | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt>                     |
 | Pi Hole Smart TV                 | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt>                          |
 | Pi Hole Smart Phone              | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt>                        |
-| FMSF 2                           | <https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt>                                                    |
