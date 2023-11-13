@@ -165,7 +165,13 @@
       "source": "https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
-    }
+    },
+    {
+      "name": "f97.xyz",
+      "source": "https://raw.githubusercontent.com/f97/filter-list/master/f97.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
   ],
   "transformations": [
     "RemoveComments",
