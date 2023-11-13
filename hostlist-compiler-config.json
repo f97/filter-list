@@ -137,24 +137,6 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
-      "name": "Lightswitch05 Dating Services",
-      "source": "https://www.github.developerdan.com/hosts/lists/dating-services-extended.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
-      "name": "Lightswitch05 Ads & Tracking",
-      "source": "https://www.github.developerdan.com/hosts/lists/ads-and-tracking-extended.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
-      "name": "Lightswitch05 Facebook Extended",
-      "source": "https://www.github.developerdan.com/hosts/lists/facebook-extended.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
       "name": "Smart-TV Blocklist",
       "source": "https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt",
       "type": "adblock",
