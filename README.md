@@ -25,7 +25,6 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Bigdargon - hostsVN              | <https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts>                                                          |
 | NoCoin Filter List               | <https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt>                                          |
 | Coin Blocker Lists               | <https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser>                                                                 |
-| Easylist Cookie List             | <https://secure.fanboy.co.nz/fanboy-cookiemonster.txt>                                                                      |
 | Adguard Cookie List              | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt> |
 | Adguard Mobile                   | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt>                   |
 | Adguard Base                     | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt>                     |
