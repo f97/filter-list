@@ -47,4 +47,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Pi Hole TikTok                   | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/tiktok-full-block-ftpihole.txt>                     |
 | Pi Hole Smart TV                 | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smart-tv-ads-tracking.txt>                          |
 | Pi Hole Smart Phone              | <https://raw.githubusercontent.com/ftpmorph/ftprivacy/master/blocklists/smartphone-ads-tracking.txt>                        |
-| Anti AD Domains |https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt|
+| Anti AD Domains                  | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt>                             |
