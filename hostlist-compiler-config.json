@@ -36,7 +36,7 @@
     },
     {
       "name": "Coin Blocker Lists",
-      "source": "https://zerodot1.gitlab.io/CoinBlockerLists/hosts_browser",
+      "source": "https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt",
       "type": "hosts",
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
