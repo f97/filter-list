@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 14 Nov 2023 00:50 UTC
-! Version: 2023.1114.0050.47
+! Last modified: 14 Nov 2023 12:44 UTC
+! Version: 2023.1114.1244.05
 ! Syntax: AdBlock
-! Number of entries: 57083
+! Number of entries: 57115
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -391,6 +391,7 @@
 ||1jc5t.xyz^
 ||1jsskipuf8sd.com^
 ||1k2l3m4n5o.com^
+||1knhg4mmq.de^
 ||1kxun.mobi^
 ||1lan.tv^
 ||1lbk62l5c.de^
@@ -964,6 +965,7 @@
 ||3819544f76.com^
 ||3841f4b0c4.com^
 ||3850274698301a9ed25f86e97b2ea9eee4cc8f893e6a78e42006f4fb.com^
+||ce1e674f2f.3897e90a2e.com^
 ||38d9953876.com^
 ||38kmute.xyz^
 ||38zu.cn^
@@ -1030,6 +1032,7 @@
 ||3ssem.com^
 ||ios.pclog.3u.com^
 ||3utilities.com^
+||3uvz5.xyz^
 ||3v7c7y.com^
 ||3vulkanvegas.com^
 ||revive.3wayint.com^
@@ -3493,6 +3496,7 @@
 ||advservert.com^
 ||advsnx.net^
 ||advwomennews.ru^
+||advymjwwsuhs.com^
 ||adwarepatrol.com^
 ||analytics.adway.ai^
 ||adways.com^
@@ -7132,6 +7136,7 @@
 ||azvclothing.com^
 ||azxdkucizr.com^
 ||b-1st.com^
+||b-5-shield.com^
 ||absolutely-novel.b-cdn.net^
 ||adblockers.b-cdn.net^
 ||adsninja.b-cdn.net^
@@ -7952,6 +7957,7 @@
 ||bemobtracks.com^
 ||bemobtrcks.com^
 ||bemobtrk.com^
+||analytics.benadryl.com^
 ||benastyunkiss.digital^
 ||benaughty.com^
 ||benced.com^
@@ -8521,6 +8527,7 @@
 ||sstats.bitdefender.com^
 ||starget.bitdefender.com^
 ||stats.bitdefender.com^
+||analytics.bite.lt^
 ||analytics.bite.lv^
 ||biteneverthelessnan.com^
 ||biteupdates.site^
@@ -14578,6 +14585,7 @@
 ||tienoi.com.vn^
 ||timpromos.com.br^
 ||ad01.tmgrup.com.tr^
+||advideos.tmgrup.com.tr^
 ||banner.tmgrup.com.tr^
 ||sayac.tmgrup.com.tr^
 ||ads.tocka.com.mk^
@@ -26185,6 +26193,7 @@
 ||hey.lt^
 ||stats.hey.com^
 ||stats.world.hey.com^
+||analytics.data.heycar.com^
 ||heyfoxcomic.com^
 ||analytics.heyhalda.com^
 ||heylink.com^
@@ -29258,6 +29267,7 @@
 ||j93557g.com^
 ||ja2n2u30a6rgyd.com^
 ||jaahrktlbd.com^
+||asoewk.jaanuu.com^
 ||jaavnacsdw.com^
 ||tracker.jabama.com^
 ||jackalvindictive.com^
@@ -31267,6 +31277,7 @@
 ||lbjg7.com^
 ||lbkalko.com^
 ||lbljgxy.cc^
+||lblwhh.xyz^
 ||lby2kd27c.com^
 ||lc2ads.ru^
 ||lcads.ru^
@@ -33531,6 +33542,7 @@
 ||ana.mediable.info^
 ||mediaboom.site^
 ||mediabp.kr^
+||mediabrama.com^
 ||mediabridge.cc^
 ||mediabrix.com^
 ||mediacategory.com^
@@ -37357,6 +37369,7 @@
 ||oedroughl.xyz^
 ||oehcxmhk.xyz^
 ||oekkkkptth.com^
+||oektiu.xyz^
 ||oepce.xyz^
 ||smetrics.oerproject.com^
 ||oeuvresvexable.com^
@@ -38275,6 +38288,7 @@
 ||otoshiana.com^
 ||otqxvqzdgl.com^
 ||otramano.org^
+||data-f35c83b71a.ots.at^
 ||smetrics.otsuka-us.com^
 ||sentry-cli.prd.ottcds.com^
 ||sentry-sas.prd.ottcds.com^
@@ -41126,7 +41140,6 @@
 ||psaukaux.net^
 ||psauwush.net^
 ||psc4fuel.com^
-||psce.pw^
 ||psdn.xyz^
 ||psfgobbet.com^
 ||psfmi.com^
@@ -42988,6 +43001,7 @@
 ||rentalrebuild.com^
 ||gqjppj.rentcafe.com^
 ||t.rentcafe.com^
+||analytics.rentola.be^
 ||analytics.rentola.nl^
 ||smetrics.rentprogress.com^
 ||rentracks.jp^
@@ -43958,6 +43972,7 @@
 ||fglrgt.ruggable.com^
 ||data-f59db3288b.ruhr24.de^
 ||data-c5740f79ff.ruhrnachrichten.de^
+||data-e9439b5f81.ruhrnachrichten.de^
 ||ruineddefectivecurb.com^
 ||ruisgood.ru^
 ||rulingcaviarreliance.com^
@@ -45177,6 +45192,7 @@
 ||sevenpronounced.com^
 ||sevensmooon.com^
 ||seventhalbines.space^
+||matomo.seventhings.com^
 ||seventybrush.com^
 ||severaladjustlattice.com^
 ||severalbagel.com^
@@ -45238,6 +45254,7 @@
 ||sfg11rr.com^
 ||oascentral.sfgate.com^
 ||u927.sfgate.com^
+||images.srs.sfgmembers.com^
 ||tr.com-parc.sfr.fr^
 ||elr.sfr.fr^
 ||netc.sfr.fr^
@@ -46552,6 +46569,7 @@
 ||track.sodapdf.com^
 ||sodiumrampcubic.com^
 ||sodoit.com^
+||matomo.soennecken.de^
 ||data-f59db3288b.soester-anzeiger.de^
 ||analytics.sofarsounds.com^
 ||sofcryingforanyt.com^
@@ -47017,6 +47035,7 @@
 ||spkouhad0.jp^
 ||events.splash-screen.net^
 ||splashforgodm.com^
+||splfnok.cn^
 ||splicky.com^
 ||splief.com^
 ||events.split.io^
@@ -49181,6 +49200,7 @@
 ||textme.network^
 ||events.textme-app.com^
 ||texto.click^
+||analytics.textshuttle.com^
 ||textspannerreptile.com^
 ||texturetrick.com^
 ||hits.tf.rs^
@@ -49721,7 +49741,10 @@
 ||analytics-sg.tiktok.com^
 ||analytics-test.tiktok.com^
 ||analytics-useast2a.tiktok.com^
+||analytics-usexperimentast2a.tiktok.com^
+||analytics-sg.athena-sg.tiktok.com^
 ||business-api.tiktok.com^
+||analytics-edgecom.developer-sg.tiktok.com^
 ||ads.in.tiktok.com^
 ||logistics.tiktok.com^
 ||mcs-sg.tiktok.com^
@@ -51040,6 +51063,7 @@
 ||tryfinancesurveytoday.top^
 ||tryingacquaintance.com^
 ||trymysadoroh.site^
+||to.tryreviveskylifestyle.com^
 ||tryrichsurveytoday.top^
 ||trysecretsurvey.top^
 ||trysera.com^
@@ -51452,6 +51476,7 @@
 ||uadx.com^
 ||uaeneeds.com^
 ||uahozcfq.xyz^
+||uakxkb.icu^
 ||analytics.ual.com^
 ||uangmu.top^
 ||uangmudahapp.com^
@@ -51894,6 +51919,7 @@
 ||unityads.unity3d.com^
 ||cdn-creatives-tencent-prd.unityads.unitychina.cn^
 ||config.unityads.unitychina.cn^
+||analytics.unive.nl^
 ||universalflaskshrimp.com^
 ||osimg.universalorlando.com^
 ||oimg.universalorlandovacations.com^
@@ -52586,6 +52612,7 @@
 ||vatois.com^
 ||vaugaiva.net^
 ||vaugroar.com^
+||vauthaud.net^
 ||vavilisys.com^
 ||vay9.com^
 ||analytics.vayaworkforce.com^
@@ -52973,6 +53000,7 @@
 ||vietnamnetad.vn^
 ||log.vietnamplus.vn^
 ||logen.vietnamplus.vn^
+||logv3.vietnamplus.vn^
 ||vietnhabienhoa.com^
 ||ox1.vietstock.vn^
 ||viettelshare.com^
@@ -53474,6 +53502,7 @@
 ||telemetry.voxeet.com^
 ||voxjvytmisj.com^
 ||phonograph2.voxmedia.com^
+||content.voxpopme.com^
 ||targeting.voxus.tv^
 ||metrics.voyage-prive.com^
 ||ncx2.voyage-prive.it^
@@ -56066,6 +56095,7 @@
 ||analytics-kc-nfl.yinzcam.com^
 ||analytics-lac-nfl.yinzcam.com^
 ||analytics-lal-nba.yinzcam.com^
+||analytics-lv-f1.yinzcam.com^
 ||analytics-mia-nfl.yinzcam.com^
 ||analytics-mil-nba.yinzcam.com^
 ||analytics-min-nba.yinzcam.com^
@@ -56108,6 +56138,7 @@
 ||ykdwyf.com^
 ||r1.ykimg.com^
 ||ykkbwdf.cn^
+||ykmvnhue.com^
 ||ykqalsm.com^
 ||yladm.com^
 ||ylasthepoityelthenl.xyz^
@@ -57035,6 +57066,7 @@
 ||zvetki.ru^
 ||zvetokr2hr8pcng09.com^
 ||zvkytbjimbhk.com^
+||data-4fa18eb5e3.zvw.de^
 ||zvwhrc.com^
 ||zwaar.net^
 ||zwaar.org^
