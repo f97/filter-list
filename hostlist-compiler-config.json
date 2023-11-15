@@ -179,6 +179,24 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "Disconnect ADS",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_ad.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Disconnect Malvertising",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Disconnect Tracking",
+      "source": "https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "f97.xyz",
       "source": "https://raw.githubusercontent.com/f97/filter-list/master/f97.txt",
       "type": "adblock",
