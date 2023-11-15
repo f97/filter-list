@@ -50,6 +50,6 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Anti AD Domains                  | <https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-domains.txt>                             |
 | Notrack Blocklists               | <https://gitlab.com/quidsup/notrack-blocklists/-/raw/master/trackers.list>                                                  |
 | Antipopads                       | <https://raw.githubusercontent.com/AdroitAdorKhan/antipopads-re/master/formats/domains.txt>                                 |
-|Disconnect ADS|https://s3.amazonaws.com/lists.disconnect.me/simple_ad.|
-|Disconnect Malvertising|https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt|
-|Disconnect Tracking|https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt|
+| Disconnect ADS                   | <https://s3.amazonaws.com/lists.disconnect.me/simple_ad>.                                                                   |
+| Disconnect Malvertising          | <https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt>                                                      |
+| Disconnect Tracking              | <https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt>                                                          |
