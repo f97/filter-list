@@ -197,6 +197,12 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "Goodbye Ads",
+      "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "f97.xyz",
       "source": "https://raw.githubusercontent.com/f97/filter-list/master/f97.txt",
       "type": "adblock",
