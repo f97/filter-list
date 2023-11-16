@@ -53,4 +53,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Disconnect ADS                   | <https://s3.amazonaws.com/lists.disconnect.me/simple_ad>.                                                                   |
 | Disconnect Malvertising          | <https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt>                                                      |
 | Disconnect Tracking              | <https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt>                                                          |
-|Goodbye Ads|https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt|
+| Goodbye Ads                      | <https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt>                        |
