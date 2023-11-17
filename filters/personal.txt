@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 16 Nov 2023 13:00 UTC
-! Version: 2023.1116.1300.53
+! Last modified: 17 Nov 2023 00:58 UTC
+! Version: 2023.1117.0058.11
 ! Syntax: AdBlock
-! Number of entries: 57348
+! Number of entries: 57382
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -2320,7 +2320,6 @@
 ||horacemann.actonservice.com^
 ||marsh.actonservice.com^
 ||mediasource.actonservice.com^
-||msufcu.actonservice.com^
 ||nccer.actonservice.com^
 ||quidel.actonservice.com^
 ||travelmarketreport.actonservice.com^
@@ -15294,6 +15293,7 @@
 ||analytics.core.ai^
 ||sentry.core.icu^
 ||analytics-lgs.corebridgefinancial.com^
+||coreevolutionadulatory.com^
 ||coreg-feed.com^
 ||coreldrawchina.com^
 ||coremetrics.com^
@@ -16695,6 +16695,7 @@
 ||decisivedrawer.com^
 ||decisiveducks.com^
 ||deckdistant.com^
+||deckedsi.com^
 ||deckmanbrid.com^
 ||decknetwork.net^
 ||declarationfascinatedrace.com^
@@ -18491,6 +18492,7 @@
 ||balancer.devtodev.com^
 ||statgw.devtodev.com^
 ||dewcommode.space^
+||dewdropcope.live^
 ||dewierhagger.com^
 ||api.dewmobile.net^
 ||dewrain.life^
@@ -18549,6 +18551,7 @@
 ||dgtl-trade.com^
 ||dgtlocean.com^
 ||dgxlm.xyz^
+||dgxmvglp.com^
 ||dh-sarstedt.de^
 ||dhenr54m.com^
 ||ltecrf.dhgate.com^
@@ -18704,6 +18707,7 @@
 ||diktatsdeprint.space^
 ||diktatslopseed.com^
 ||dilatesdubbers.com^
+||dilip-xko.com^
 ||analytics1.dillards.com^
 ||fsbozl.dillards.com^
 ||diluterwearers.com^
@@ -18922,6 +18926,7 @@
 ||dissipatedifficulty.com^
 ||dissolveretinue.com^
 ||distant-session.pro^
+||distantsoil.com^
 ||distilinborn.com^
 ||distilled.ie^
 ||distiltag.com^
@@ -19362,6 +19367,7 @@
 ||dowjoneson.com^
 ||dowmarkets.com^
 ||c.down.tube^
+||download-adblock-zen.com^
 ||download-app.net^
 ||download-campaign.com^
 ||download5s.com^
@@ -19542,6 +19548,7 @@
 ||drumusherhat.com^
 ||drunkardashamethicket.com^
 ||drunkarddecentmeals.com^
+||drust-gnf.com^
 ||matomo.drutch.nl^
 ||druttlelimbec.digital^
 ||zlvrbzquvzbdutt0gdiqvk.on.drv.tw^
@@ -19663,6 +19670,7 @@
 ||duhitu.com^
 ||s.duhnet.tv^
 ||dui88.com^
+||duili-mtp.com^
 ||duimspruer.life^
 ||duitpanas.top^
 ||analytics.lib.duke.edu^
@@ -20311,6 +20319,7 @@
 ||effectivedisplayformat.com^
 ||effectivedisplayformats.com^
 ||effectivegatetocontent.com^
+||effectivemeasure.com^
 ||effectivemeasure.net^
 ||effectiveperformanceformat.com^
 ||effectiveperformancenetwork.com^
@@ -20547,6 +20556,7 @@
 ||sl.elinvarpayola.com^
 ||eliondolularhene.info^
 ||analytics.elisaviihde.fi^
+||eliss-vas.com^
 ||elitedatingexperience.top^
 ||elitedollars.com^
 ||elitegadgetinsider.com^
@@ -20897,6 +20907,7 @@
 ||eonads.com^
 ||ijaabm.eonline.com^
 ||swa.eonline.com^
+||eooperseducat.xyz^
 ||eooslfyhziubo.com^
 ||eopad.cyou^
 ||eopleshouldt.info^
@@ -21200,6 +21211,7 @@
 ||euanticorruption.com^
 ||eubnm.com^
 ||eucing.com^
+||eucli-czt.com^
 ||eucsoft.com^
 ||eudshop.shop^
 ||eudstudio.com^
@@ -21209,6 +21221,7 @@
 ||euizhltcd6ih.com^
 ||eukova.com^
 ||eukworektobe.pics^
+||eulal-cnr.com^
 ||et.eulerian.net^
 ||fdj.eulerian.net^
 ||io1.eulerian.net^
@@ -22331,6 +22344,7 @@
 ||finad.de^
 ||finalice.net^
 ||matomo.finalist.nl^
+||finalyticsdata.com^
 ||news.finance-commerce.com^
 ||finance-hot-news.com^
 ||financefear.com^
@@ -24578,7 +24592,6 @@
 ||marketing.globalpointofcare.abbott^
 ||globalrubbercorporation.com^
 ||media.globalsign.com^
-||seal.globalsign.com^
 ||globalsiteanalytics.com^
 ||globalsmarturl.com^
 ||exhibition.edm.globalsources.com^
@@ -26941,7 +26954,18 @@
 ||hottercensorbeaker.com^
 ||sanalytics.hottopic.com^
 ||vdkjfd.hottopic.com^
-||hottracker.biz^
+||fr34.hottracker.biz^
+||fr35.hottracker.biz^
+||fr36.hottracker.biz^
+||fr37.hottracker.biz^
+||fr42.hottracker.biz^
+||fr43.hottracker.biz^
+||usa11-2.hottracker.biz^
+||usa12.hottracker.biz^
+||usa13.hottracker.biz^
+||usa17.hottracker.biz^
+||usa18.hottracker.biz^
+||usa19.hottracker.biz^
 ||hotwildadult.com^
 ||om.hotwire.com^
 ||som.hotwire.com^
@@ -32657,6 +32681,7 @@
 ||lrkenrerjkbly.top^
 ||lrkenrerjkljb.top^
 ||analytics.lrn.com^
+||lrqknpk.com^
 ||lrqpyhn.icu^
 ||lrqvmaverkabb.top^
 ||lrswl.com^
@@ -33810,6 +33835,7 @@
 ||meekerhyaenid.com^
 ||meendocash.com^
 ||meenetiy.com^
+||meet-buddy.com^
 ||secure.meet3monk.com^
 ||meet4you.net^
 ||analytics.meet5.net^
@@ -35086,6 +35112,7 @@
 ||mpmant.com^
 ||mpnrs.com^
 ||mppapi.io^
+||mpraven.org^
 ||mps-gba.de^
 ||matomo31.mpsa.com^
 ||mpstat.us^
@@ -36098,6 +36125,7 @@
 ||d2c.ne.jp^
 ||addlv.smt.docomo.ne.jp^
 ||adnwif.smt.docomo.ne.jp^
+||tracking.prismpartner.smt.docomo.ne.jp^
 ||rec1.smt.docomo.ne.jp^
 ||sjs.ssdsp.smt.docomo.ne.jp^
 ||ebis.ne.jp^
@@ -39432,7 +39460,9 @@
 ||penapne.xyz^
 ||analytics.penaten.de^
 ||penaz.info^
-||pendo.io^
+||app.pendo.io^
+||data.pendo.io^
+||api.feedback.us.pendo.io^
 ||metrics.pendular.io^
 ||sjourney.penfed.org^
 ||smetrics.penfed.org^
@@ -46150,6 +46180,7 @@
 ||analytics.sitewit.com^
 ||sitewithg.com^
 ||sitey.me^
+||dkclxi.sitkagear.com^
 ||situationfondlehindsight.com^
 ||situationhostilitymemorable.com^
 ||situbathool.com^
@@ -46524,6 +46555,8 @@
 ||smashquartz.com^
 ||smashsurprise.com^
 ||smathe.com^
+||smatr.net^
+||smazaz.icu^
 ||smct.co^
 ||dolnyzemplin.korzar.sme.sk^
 ||beam.remp.sme.sk^
@@ -54510,6 +54543,7 @@
 ||weneedyourhelpnow.org^
 ||wenhat.com^
 ||wensaidoheth.xyz^
+||wensonk.com^
 ||m.wenxuemi.cc^
 ||ad.weplayer.cc^
 ||bugly.weplayer.cc^
