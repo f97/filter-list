@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231117153038
+! Version: 20231117155254
 ! Title: ABPVN List
-! Last modified: 17 Nov 2023 15:30:38 UTC+7
+! Last modified: 17 Nov 2023 15:52:54 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -157,8 +157,8 @@
 ||i.imgur.com/81uid6d.jpg
 ||i.imgur.com/FbUH5AQ.png
 ||i.imgur.com/Q0a2mv2.png
-||i.imgur.com^$image,domain=nhacdj.vn|phimdinhcao.net|phimlongtieng.net|phimdinhcao.com|truyenfull.vn|animet.net|diendanit.net|banbuondalat.com|khoedep.vn|animeweb.vip|xemphimvuis.com|hhhtq.net|hoathinhtq.tv|tinsoikeo.vip|phim18zz.com
-||i.imgur.com^*.gif$image,domain=fimfast.pro|subnhanh.xyz|biphimvn.net|vungtv.us|hayghe.fan|motphimle.sbs|mephimgi.net|mephimtv.co|hdphimhay1.xyz|ghienphim8.net|phimvietsub.pro|mphim14.com|phim.city|247phim.cc|biphims.cc|dailyphimz.com|phimmoiaz.cc|hhpanda.cc|phimgichill.net|ophimhdvn3.net|mythethao.net|megalink.vip|xemtivi4k.com|mephimnhe1.net|animevietsub.fan|tvhay2.net|cakhia20.com|cakhia25.live|cakhia22.live|vtipster.net|subnhanhvl.co|subnhanh.im|mphimmoi1.xyz|biphim.io|bichill.one|tructiepnba.com|bongdahomnay.org|hhtq.vip|huphimtv.com|phimmoipro2.net|forum.gocmod.com|rakhoi9.live|rakhoi10.live|vietphims.tv|zuiphim.com|listnhacai1.com|mannhan2.live|xamvn.vc|ketqua9.net|ketqua3.net|phimtn.com|xoilac14.org|film365.in|vebo8.link|90phut9.live|phimnet.vip|xemphimviet1.net|phimvietsub.co|chillhay-net.pro|mitomb.tv|90phutx.tv|player.4shares.live|thapcam.live|vkool2.net|caheo7.tv|livefb.xyz|phimmoiyyy.net|phimbom.net|vebo4.org|vebotv.net|tvhayhd.com|hhtrungquoc.com
+||i.imgur.com^$image,domain=nhacdj.vn|phimdinhcao.net|phimlongtieng.net|phimdinhcao.com|truyenfull.vn|animet.net|diendanit.net|banbuondalat.com|khoedep.vn|animeweb.vip|xemphimvuis.com|hhhtq.net|hoathinhtq.tv|tinsoikeo.vip|phim18zz.com|chillhay-net.pro
+||i.imgur.com^*.gif$image,domain=fimfast.pro|subnhanh.xyz|biphimvn.net|vungtv.us|hayghe.fan|motphimle.sbs|mephimgi.net|mephimtv.co|hdphimhay1.xyz|ghienphim8.net|phimvietsub.pro|mphim14.com|phim.city|247phim.cc|biphims.cc|dailyphimz.com|phimmoiaz.cc|hhpanda.cc|phimgichill.net|ophimhdvn3.net|mythethao.net|megalink.vip|xemtivi4k.com|mephimnhe1.net|animevietsub.fan|tvhay2.net|cakhia20.com|cakhia25.live|cakhia22.live|vtipster.net|subnhanhvl.co|subnhanh.im|mphimmoi1.xyz|biphim.io|bichill.one|tructiepnba.com|bongdahomnay.org|hhtq.vip|huphimtv.com|phimmoipro2.net|forum.gocmod.com|rakhoi9.live|rakhoi10.live|vietphims.tv|zuiphim.com|listnhacai1.com|mannhan2.live|xamvn.vc|ketqua9.net|ketqua3.net|phimtn.com|xoilac14.org|film365.in|vebo8.link|90phut9.live|phimnet.vip|xemphimviet1.net|phimvietsub.co|mitomb.tv|90phutx.tv|player.4shares.live|thapcam.live|vkool2.net|caheo7.tv|livefb.xyz|phimmoiyyy.net|phimbom.net|vebo4.org|vebotv.net|tvhayhd.com|hhtrungquoc.com
 ||i.servimg.com/u/f22/$image,domain=4rkinggame.com
 ||i.upanh.org^*.gif$domain=phimhay.mobi
 ||i0.wp.com/s1.uphinh.org/*.gif$domain=massagevua.net|mythethao.net
@@ -626,12 +626,9 @@ boophim.net##.static-banner
 btcvn.org##.PanelScroller.Notices
 cafebiz.vn##.bgadmtoptotal
 cafef.vn,ttvn.toquoc.vn##.bannertop
-cakhia20.com,cakhia25.live,cakhia22.live##.logo-top-right-append-custom
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.container-banner
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.modal-ads
 cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##div[class^="slide-bar"]
-cakhia20.com,cakhia25.live,cakhia22.live,livefb.xyz##.button-bottom-center-append-custom
-cakhia20.com,cakhia25.live,cakhia22.live,rakhoi9.live,rakhoi10.live,livefb.xyz##.button-in-player-box
 cakhia7.vip##.container.mt-1.d-none.d-lg-block
 cakhia7.vip##.menu-item-object-custom
 cakhia7.vip##a.rlw-extra-i.py-3.flex-grow-1
@@ -819,6 +816,7 @@ live.7mvn2.com###bottomFixedDiv
 live.7mvn2.com###js_pup_navigation
 live.7mvn2.com###wAdList
 live.7mvn2.com##tr[id^="word_"]
+livefb.xyz##.button-bottom-center-append-custom
 lmssplus.com##.adsHOC_wrapper__i5MTn
 lmssplus.com##.homePage_adsHomeLeft__3_ruz.adsHOC_wrapper__Se0cN
 lmssplus.com##.style_wrapperAll__jFIbb
@@ -898,7 +896,7 @@ motphim1.info,hhtq.top,animevip.tv##.box_odds
 mphim14.com##.fixed_bottom
 mphim14.com,phimmoinay.tv##.adv_phim
 mphimmoi1.xyz##.most-view:first-child
-mphimmoi1.xyz,phimmoipro2.net,rakhoi9.live,rakhoi10.live,play.vnupload.net,ssplay.net,vebo8.link,mephimtv.net,api.anime3s.com,motchillz.org,xoilac14.org,cakhia20.com,cakhia25.live,cakhia22.live,tvhayt.org,player.4shares.live,bongda365f.com,p.thoctv.com,livefb.xyz##.jw-logo
+mphimmoi1.xyz,phimmoipro2.net,rakhoi9.live,rakhoi10.live,play.vnupload.net,ssplay.net,vebo8.link,mephimtv.net,api.anime3s.com,motchillz.org,xoilac14.org,tvhayt.org,player.4shares.live,bongda365f.com,p.thoctv.com,livefb.xyz##.jw-logo
 muabanraovat.com##[class^="box_adv_ele"]
 muare.vn##.admicro_top
 muaxegiatot.com###tdi_129
@@ -991,7 +989,7 @@ phimtuoitho.tv##.movies-list-wrap>center
 phimvietsub.co,gocphimvn.net##.code-block
 phimvietsub.pro##.sticky_bottom
 phimvietsub.pro,tvhayt.org,tvhay2.net##.t_logo
-phimvuihd.org,vietphims.tv,hh3dhay.com,phimtn.com,khoaiphim.com,chillhay-net.pro,phimhay.in,hdphim18.net,phimhay.mobi,phimtuoitho.tv,phimmois.org##.float-ck-center-lt
+phimvuihd.org,vietphims.tv,hh3dhay.com,phimtn.com,khoaiphim.com,phimhay.in,hdphim18.net,phimhay.mobi,phimtuoitho.tv,phimmois.org##.float-ck-center-lt
 phimyeuthichz.com##.sticky-footer
 phunumoi.net.vn,nhipcaudautu.vn##div[id^="ads_"]
 phuongtrinhhoahoc.com##.ads-bottom-margin
@@ -1020,8 +1018,9 @@ rakhoi9.live,rakhoi10.live,cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.
 rakhoi9.live,rakhoi10.live,cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.modelAds
 rakhoi9.live,rakhoi10.live,cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.nhacaiuytin
 rakhoi9.live,rakhoi10.live,cakhia20.com,cakhia25.live,cakhia22.live,caheo7.tv##.text-running
-rakhoi9.live,rakhoi10.live,cakhia20.com,cakhia25.live,cakhia22.live,livefb.xyz##.banner-bottom-append-custom
 rakhoi9.live,rakhoi10.live,cakhia20.com,cakhia25.live,cakhia22.live,vebot.live,caheo7.tv##.footer-banner
+rakhoi9.live,rakhoi10.live,livefb.xyz##.banner-bottom-append-custom
+rakhoi9.live,rakhoi10.live,livefb.xyz##.button-in-player-box
 realty.vn##.banner-ads-home
 realty.vn##.banner-in
 realty.vn,dangtinbatdongsan.vn##.warp-banner-vip
@@ -1043,7 +1042,7 @@ soikeo365.net###desktopPopupBanner
 soikeo365.net##.ads-floatingads
 soikeo365.net##.banner-item
 soikeo365.net##.top-nha-cai
-soikeoz.net,tvhayt.org,protruyen.xyz,phimmoinay.tv,phimtho.net,tutientruyen.xyz###popup_banner_beta
+soikeoz.net,tvhayt.org,protruyen.xyz,phimmoinay.tv,phimtho.net,tutientruyen.xyz,chillhay-net.pro###popup_banner_beta
 sport5.vn,afamily.vn##.afw-topbanner
 ssplay.net,zophim.net###_AM_POPUP_FRAME
 startalk.vn##.ads-general-banner
