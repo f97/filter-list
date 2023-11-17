@@ -25,3 +25,5 @@
 ||consent.cmp.oath.com^
 ||gdpr-api.sharethis.com^
 ||imgs.signifyd.com^
+@@||laz-img-cdn.alicdn.com^$important
+@@||laz-g-cdn.alicdn.com^$important
