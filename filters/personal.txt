@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 18 Nov 2023 12:57 UTC
-! Version: 2023.1118.1257.37
+! Last modified: 19 Nov 2023 01:08 UTC
+! Version: 2023.1119.0108.51
 ! Syntax: AdBlock
-! Number of entries: 57533
+! Number of entries: 57559
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -174,6 +174,7 @@
 ||1158tp.com^
 ||116bea31bf.com^
 ||1170555.com^
+||1188.lv^
 ||statistics.11880.com^
 ||1190555.com^
 ||1198194.com^
@@ -6857,6 +6858,7 @@
 ||data-cd0b4bd19f.auto-motor-und-sport.de^
 ||matomo.auto-motor-und-sport.de^
 ||auto-ping.com^
+||auto24.lv^
 ||sstats.auto5.be^
 ||autoads.asia^
 ||autoaudience.com^
@@ -7431,6 +7433,7 @@
 ||paimgcdn-feed.baidu.com^
 ||pimlog.baidu.com^
 ||pos.baidu.com^
+||publish-pic-cpu.baidu.com^
 ||lbsonline.pushct.baidu.com^
 ||statsonline.pushct.baidu.com^
 ||qapm.baidu.com^
@@ -14594,6 +14597,7 @@
 ||profunding.com.au^
 ||qniq.com.tw^
 ||qucireideaux.com.ua^
+||radionovafm99.com.br^
 ||rang.com.ua^
 ||rcuacroossonec.com.ua^
 ||collect.reagroupdata.com.au^
@@ -21377,6 +21381,7 @@
 ||connect.news.evergreenhealth.com^
 ||images.energysolutions.evergy.com^
 ||tracking.evergy.com^
+||everlastinghighlight.com^
 ||everlead.net^
 ||evermoto.xyz^
 ||smetrics.evernorth.com^
@@ -28013,6 +28018,7 @@
 ||impassabletitanicjunction.com^
 ||impatientbowpersecution.com^
 ||impatienttidy.com^
+||pix.impdesk.com^
 ||impeccablewriter.com^
 ||impededhaeing.com^
 ||impendingaggregated.com^
@@ -32895,6 +32901,7 @@
 ||lupvaqvfeka.com^
 ||lurchesheroine.life^
 ||lurdoocu.com^
+||lureillegimateillegimate.com^
 ||lurgaimt.net^
 ||luronews.com^
 ||lusciniar.online^
@@ -35902,6 +35909,7 @@
 ||nagahox.com^
 ||nagarh.com^
 ||naggingirresponsible.com^
+||nagi.ee^
 ||nagues.com^
 ||nagwrotedetain.com^
 ||nahnoji.cz^
@@ -37698,6 +37706,7 @@
 ||offerforge.com^
 ||offerforge.net^
 ||offergate-apps-publicity.com^
+||offergate-apps-pubrel.com^
 ||offerimage.com^
 ||tracking.offerista.com^
 ||offermatica.com^
@@ -37782,6 +37791,7 @@
 ||ohtctjiuow.com^
 ||oiarske.com^
 ||romatotti520.oicp.io^
+||oidaio.com^
 ||oifyeldk.top^
 ||oigduusrva.com^
 ||oijkse.com^
@@ -37848,6 +37858,7 @@
 ||analytics.olay.com^
 ||ukmail.olay.com^
 ||olayomad.com^
+||oldfashionedoffer.com^
 ||oldgyhogola.com^
 ||oldied.com^
 ||tracking.oldnational.com^
@@ -37879,6 +37890,7 @@
 ||pabxoe.olx.ua^
 ||tracking.olx-st.com^
 ||ninja.data.olxcdn.com^
+||olybet.lv^
 ||olympicsappointment.com^
 ||olympusholding.co^
 ||ads.omaha.com^
@@ -38338,6 +38350,7 @@
 ||opthushbeginning.com^
 ||opti-digital.com^
 ||optiads.org^
+||optibet.lv^
 ||opticlygremio.com^
 ||opticsbd.com^
 ||analytics.opticsplanet.com^
@@ -38507,6 +38520,7 @@
 ||oriori.com^
 ||orisow.com^
 ||orixon.org^
+||orjinalshop.net^
 ||orkhovdimin.xyz^
 ||orkoedthroug.xyz^
 ||orldwhoisquite.com^
@@ -38597,6 +38611,7 @@
 ||otoshiana.com^
 ||otqxvqzdgl.com^
 ||otramano.org^
+||otrapuse.lv^
 ||data-f35c83b71a.ots.at^
 ||smetrics.otsuka-us.com^
 ||sentry-cli.prd.ottcds.com^
@@ -38761,6 +38776,7 @@
 ||revive.outin.cn^
 ||outlapdawn.live^
 ||outlet-alfresco.com^
+||outletsmm.com^
 ||outletsports.pl^
 ||outlieazafran.com^
 ||outlinesweatraces.com^
@@ -39488,6 +39504,7 @@
 ||peachybeautifulplenitude.com^
 ||peachywaspish.com^
 ||peacockshudder.com^
+||peacto.com^
 ||peak2poem.com^
 ||peakchewing.com^
 ||plausible.peakd.com^
@@ -39797,6 +39814,7 @@
 ||perishcraft.com^
 ||perjurycelsiussenses.com^
 ||perk0mean.com^
+||perkamkopa.lv^
 ||perkcanada.com^
 ||info.perkinelmer.com^
 ||perlatoshoe.com^
@@ -39927,6 +39945,7 @@
 ||phanquang.vn^
 ||analytics.phantom.app^
 ||phantomattestationzillion.com^
+||phardain.xyz^
 ||pharmacal.com^
 ||analytics.pharmacy-demo.com^
 ||pharmajobadda.com^
@@ -40008,6 +40027,7 @@
 ||phoulade.xyz^
 ||phouvemp.net^
 ||phpmyvisites.net^
+||phraa-lby.com^
 ||phrachudadhuj.com^
 ||phsea.net^
 ||phts.io^
@@ -40628,6 +40648,7 @@
 ||analytics.polygon.technology^
 ||metric.polygonscan.com^
 ||polygraphpretenceraw.com^
+||polyh-nce.com^
 ||share.polymail.io^
 ||polymorphicads.jp^
 ||ra.polyserbdom.com^
@@ -41164,7 +41185,9 @@
 ||privatelands.biz^
 ||privateleaflet.com^
 ||privatelookhack.com^
+||privatproxy-blog.com^
 ||privatproxy-blog.xyz^
+||privatproxy-cdn.com^
 ||privatproxy-chat.com^
 ||privatproxy-chat.xyz^
 ||privatproxy-endpoint.com^
@@ -41936,6 +41959,7 @@
 ||q0mn5t187u.ru^
 ||q0yxfvuo32.ru^
 ||q1media.com^
+||q1mediahydraplatform.com^
 ||q20jqurls0y7gk8.info^
 ||q27sz.com^
 ||q2h0x5l7gj8xdm5wdx8ht5szd4jw8nzq5klt8sr9sk2zjg6mtk0q8xzi0i9z.me^
@@ -42919,6 +42943,7 @@
 ||reasoningarcherassuage.com^
 ||reatasfibro.uno^
 ||reautecryable.life^
+||reauthenticator.com^
 ||rebakeassets.com^
 ||rebdy.com^
 ||rebelhen.com^
@@ -50295,6 +50320,7 @@
 ||timot-cvk.info^
 ||timoteonager.com^
 ||timpanosheng.com^
+||timsef.com^
 ||tinb.net^
 ||tindo.biz^
 ||tingedpapyrin.guru^
