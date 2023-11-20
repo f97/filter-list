@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 19 Nov 2023 13:05 UTC
-! Version: 2023.1119.1305.00
+! Last modified: 20 Nov 2023 00:54 UTC
+! Version: 2023.1120.0054.35
 ! Syntax: AdBlock
-! Number of entries: 57634
+! Number of entries: 57658
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -3754,6 +3754,7 @@
 ||afgr1.com^
 ||afgtrwd1.com^
 ||afi-b.com^
+||afi-thor.com^
 ||afilo.pl^
 ||analytics.afirstsoft.cn^
 ||afitye.xyz^
@@ -3950,6 +3951,7 @@
 ||bd.ahsrst.cn^
 ||ahstrelgnh.com^
 ||analytics.ahswarranty.com^
+||aht42trk.com^
 ||ahuano.com^
 ||ahzxy.com^
 ||smetrics.aia.com^
@@ -9909,6 +9911,7 @@
 ||bustling-substance.pro^
 ||bustlinganimal.com^
 ||bustlingbook.com^
+||bustymeets.com^
 ||events.busuu.com^
 ||pqciix.busuu.com^
 ||busyexit.com^
@@ -18404,6 +18407,7 @@
 ||deploygate.com^
 ||deploymentblessedheir.com^
 ||activation.depop.com^
+||depositgreetingscommotion.com^
 ||depositnostrilverge.com^
 ||depot7.com^
 ||depressionfemaledane.com^
@@ -26885,6 +26889,7 @@
 ||collect.hollisterco.com^
 ||smetrics.hollisterco.com^
 ||hollowafterthought.com^
+||hollowcharacter.com^
 ||holm.ru^
 ||ad.holmesmind.com^
 ||c.holmesmind.com^
@@ -49699,6 +49704,7 @@
 ||thaivillagehouston.com^
 ||thaiwhou.com^
 ||thakscholae.com^
+||thale-ete.com^
 ||matomo.insidr.apps.thalesdigital.io^
 ||myfeed.thalesgroup.com^
 ||thalesgroup-events.com^
@@ -49865,6 +49871,7 @@
 ||theniemannbest.com^
 ||thenigerianimmigrant.com^
 ||analytics.thenoor.co^
+||theod-omq.com^
 ||theodyscreams.store^
 ||theonecdn.com^
 ||sourcepoint.theonion.com^
@@ -50551,6 +50558,7 @@
 ||tntroyal.com^
 ||sanalytics.tntsports.cl^
 ||tnudztz.com^
+||tnx.net^
 ||to-apk.info^
 ||to6s.biz^
 ||toabaise.net^
@@ -50695,6 +50703,7 @@
 ||topblockchainsolutions.nl^
 ||topblogarea.com^
 ||topbucks.com^
+||topcamepan.live^
 ||topcastshoran.space^
 ||topcoinfx.com^
 ||topdealad.com^
@@ -50761,6 +50770,7 @@
 ||tor-company.com^
 ||tor-marketplace.com^
 ||tor2door-marketonion.com^
+||torattatachan.com^
 ||torbit.com^
 ||torbshop.com^
 ||torclomil.com^
@@ -51138,6 +51148,7 @@
 ||tramshirethf.xyz^
 ||telemetry.trancite.com^
 ||tranderous.com^
+||trandlife.info^
 ||addtop.trangvangvietnam.com^
 ||banner.trangvangvietnam.com^
 ||tranquilcanyon.com^
@@ -51254,6 +51265,7 @@
 ||trecut.com^
 ||widgets.tree.com^
 ||mv.treehousei.com^
+||treemagrig.live^
 ||treenvest.com^
 ||placeholder.treeum.net^
 ||treitrejewfish.com^
@@ -51408,6 +51420,7 @@
 ||trollsvide.com^
 ||tronads.io^
 ||yp.tronkparsed.com^
+||tronmachi.com^
 ||metric.tronscan.org^
 ||troolyhonks.com^
 ||troopslinecut.website^
@@ -51939,6 +51952,7 @@
 ||u25011.com^
 ||u25022.com^
 ||u2676.com^
+||u29qnuav3i6p.com^
 ||u2bmco.com^
 ||u2m.ru^
 ||u33011.com^
@@ -51964,6 +51978,7 @@
 ||analytics.ual.com^
 ||uangmu.top^
 ||uangmudahapp.com^
+||uangqu.online^
 ||uarating.com^
 ||sstats.uascrubs.com^
 ||uavejnys.xyz^
@@ -52164,6 +52179,7 @@
 ||ulmujev.com^
 ||uloaludu.xyz^
 ||advert.uloz.to^
+||ulried.com^
 ||ulrvkee.xyz^
 ||sc.ulsterbank.ie^
 ||sweb.ulta.com^
@@ -52231,10 +52247,12 @@
 ||unacceptableironicaldrone.com^
 ||unaccountablepie.com^
 ||unaccustomedchessoldest.com^
+||unaces.com^
 ||unafeed.com^
 ||unanac.com^
 ||unapromo.com^
 ||unaptsullens.com^
+||unarbokor.com^
 ||unarmedindustry.com^
 ||unative.com^
 ||unauthorizedblur.com^
@@ -52439,6 +52457,7 @@
 ||unmsrvh.cn^
 ||unnaturalcaption.com^
 ||unnish.com^
+||unnumelom.com^
 ||unoadsrv.com^
 ||player.unocdn.com^
 ||static.unocdn.com^
@@ -52518,6 +52537,7 @@
 ||upd-ur-apk.info^
 ||update-1.com^
 ||update-id8154.com^
+||update-it-now.com^
 ||update-mac.com^
 ||update-protection.com^
 ||update-ur-apk.info^
@@ -53238,6 +53258,7 @@
 ||vereyhinders.com^
 ||piwik.verfassungsschutz.de^
 ||verfer.com^
+||vergi-gwc.com^
 ||analyse.vergleichen-und-sparen.de^
 ||verified-extensions.com^
 ||analytics.veriforceone.com^
@@ -53339,6 +53360,7 @@
 ||wt.vhb.de^
 ||vhhxnb.xyz^
 ||vhjxrj.xyz^
+||vhrtgvzcmrfoo.com^
 ||vhsutpgui.xyz^
 ||analytics.vhx.tv^
 ||collector.vhx.tv^
@@ -53619,6 +53641,7 @@
 ||vipwm.cc^
 ||metrics.viqeo.tv^
 ||stats.viqeo.tv^
+||vira.ru^
 ||viraads.com^
 ||viracure.com^
 ||virakk-mixer.com^
@@ -54588,6 +54611,7 @@
 ||webgozar.com^
 ||webgozar.ir^
 ||analytics.webgp.com^
+||webgringo.ru^
 ||analytics.webguidecms.ca^
 ||webguidinglightstore.com^
 ||webhits.de^
