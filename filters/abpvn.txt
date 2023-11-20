@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231120152727
+! Version: 20231120155145
 ! Title: ABPVN List
-! Last modified: 20 Nov 2023 15:27:27 UTC+7
+! Last modified: 20 Nov 2023 15:51:45 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -414,6 +414,7 @@
 ||vn-z.vn/Banner-
 ||vnadssb.com/ad-banner/$image
 ||vnmu.edu.vn^*.gif
+||vod02bc25882576.cloud.anycastapnic.com/8xBET_480p.mp4$domain=gavang1.link
 ||vov.vn/ads/show-ads^
 ||voz.vn/data/backgrounds/
 ||vsc27.com/wp-content/themes/vuasanco/assets/scripts/scripts.js
@@ -715,6 +716,7 @@ gameviet.mobi,photoshoponlinemienphi.com##.sgpb-popup-overlay
 gamevui.vn##.adx-zone
 gamevui.vn##.underlay
 gavang1.link###btn-skip
+gavang1.link##.css-ylxsn9.MuiStack-root
 gavang1.link##.vjs-banner-bar
 gavang1.link##[href="https://8xbet259.com/"]
 genk.vn##.khw-ads-wrapper.clearfix
