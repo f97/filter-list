@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231121110730
+! Version: 20231121112409
 ! Title: ABPVN List
-! Last modified: 21 Nov 2023 11:07:30 UTC+7
+! Last modified: 21 Nov 2023 11:24:09 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -113,7 +113,6 @@
 ||gamenoob.net/wp-content/plugins/simple-banner/simple-banner.js
 ||gamenoob.net^*.gif
 ||gameviet.mobi^*.gif
-||geo.dailymotion.com/player$subdocument,domain=dtruyen.com
 ||ghienphim8.net/client_assets/images/
 ||ghienphim8.net/client_assets/js/minijumb.js
 ||gianhangsach.com^*.gif$image
