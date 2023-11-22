@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 21 Nov 2023 13:04 UTC
-! Version: 2023.1121.1304.09
+! Last modified: 22 Nov 2023 01:14 UTC
+! Version: 2023.1122.0114.59
 ! Syntax: AdBlock
-! Number of entries: 57830
+! Number of entries: 57854
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -179,6 +179,7 @@
 ||1158tp.com^
 ||116bea31bf.com^
 ||1170555.com^
+||1188.lv^
 ||statistics.11880.com^
 ||1190555.com^
 ||1198194.com^
@@ -2213,6 +2214,7 @@
 ||accurateastrologys.com^
 ||info.accutrain.com^
 ||acdcdn.com^
+||acdcmarimo.com^
 ||clarity.acdcorp.com^
 ||acdid.acdsystems.com^
 ||acec.asia^
@@ -2259,6 +2261,7 @@
 ||matomo.acorda.digital^
 ||acorn-paper.com^
 ||acorusso.ru^
+||acostaom.com^
 ||fpc.acpinternist.org^
 ||fpc.acpjournals.org^
 ||audience.acpm.fr^
@@ -3696,6 +3699,7 @@
 ||data-51c17cab74.aerztezeitung.de^
 ||aesary.com^
 ||aesaul.com^
+||aesopicmalchus.com^
 ||aethionemaso.ru^
 ||metrics.aetn.com^
 ||smetrics.aetn.com^
@@ -3937,6 +3941,7 @@
 ||cdn12359286.ahacdn.me^
 ||cdn18685953.ahacdn.me^
 ||cdn19641441.ahacdn.me^
+||cdn22904910.ahacdn.me^
 ||cdn28786515.ahacdn.me^
 ||cdn44221613.ahacdn.me^
 ||cdn45602216.ahacdn.me^
@@ -5537,6 +5542,7 @@
 ||amusedbucket.com^
 ||amuyonpastour.top^
 ||amvmzbmzaryya.top^
+||amwaenarqjyza.top^
 ||analytics.amwell.systems^
 ||amxrtb.com^
 ||amygdalbrittle.com^
@@ -6655,6 +6661,7 @@
 ||analytics.esa.atanar.net^
 ||bm-rx.atatus.com^
 ||br-rx.atatus.com^
+||atavusatumble.uno^
 ||tracking.go.atcc.org^
 ||atcelebitor.com^
 ||atchao.jp^
@@ -6923,6 +6930,7 @@
 ||data-cd0b4bd19f.auto-motor-und-sport.de^
 ||matomo.auto-motor-und-sport.de^
 ||auto-ping.com^
+||auto24.lv^
 ||sstats.auto5.be^
 ||autoads.asia^
 ||autoaudience.com^
@@ -10017,6 +10025,7 @@
 ||buzzador.com^
 ||buzzardcraizey.com^
 ||buzzcity.net^
+||buzzdancing.com^
 ||gtrack.buzzerilla.com^
 ||track.buzzerilla.com^
 ||data-f59db3288b.buzzfeed.de^
@@ -10895,6 +10904,7 @@
 ||cdncloud.asia^
 ||cdncontentstorage.com^
 ||reporting.cdndex.io^
+||cdnfimgs.com^
 ||cdnfreemalva.com^
 ||cdngain.com^
 ||cdngcloud.com^
@@ -15385,6 +15395,7 @@
 ||coope.cyou^
 ||forms.cooperaerobics.com^
 ||cooperationmoth.com^
+||cooperativechuckledhunter.com^
 ||page.downloads.cooperlighting.com^
 ||page.ephesus.cooperlighting.com^
 ||smetrics.coordinatedcarehealth.com^
@@ -16854,6 +16865,7 @@
 ||decorationproducer.com^
 ||decoycreation.com^
 ||cdn.decpo.xyz^
+||decreasetome.com^
 ||decreertenet.website^
 ||tag.dec-connect.decsuite.com^
 ||decurvepon.com^
@@ -19602,6 +19614,7 @@
 ||dratingmaject.com^
 ||draweesjabbers.com^
 ||drawerfontactual.com^
+||drawingsingmexican.com^
 ||drawingsugarnegative.com^
 ||drawingwaved.com^
 ||drawlycusec.com^
@@ -19839,6 +19852,7 @@
 ||dulativergs.com^
 ||dulcormutated.com^
 ||dulieuhay.com^
+||dullstory.pro^
 ||dulojet.com^
 ||analytics.duluthtrading.com^
 ||metrics.duluthtrading.com^
@@ -20267,6 +20281,7 @@
 ||ecipientconcertain.info^
 ||ecircle-ag.com^
 ||eckyqwb.biz^
+||eclatssaic.guru^
 ||ecleneue.com^
 ||eclick.vn^
 ||eclicks.cn^
@@ -24525,6 +24540,7 @@
 ||ggljjk.cc^
 ||gglx.me^
 ||ggmail.com^
+||ggsfq.xyz^
 ||ggtraf.com^
 ||ggx0001.com^
 ||ggz48pxys.com^
@@ -25665,6 +25681,7 @@
 ||ads.gry-online.pl^
 ||gry-vulkanvegas.com^
 ||grygrothapi.pro^
+||gs-ad.jp^
 ||metrics.gs-chat.com^
 ||smetrics.gs1us.org^
 ||gsadserver.de^
@@ -25793,6 +25810,7 @@
 ||gushswarthy.com^
 ||gusion.space^
 ||gussbkpr.website^
+||gustilyoblate.uno^
 ||data-1d11624658.gutekueche.de^
 ||data-29b3ebc284.gutekueche.de^
 ||gutobtdagruw.com^
@@ -27809,6 +27827,7 @@
 ||smetrics-ieeexplore.ieee.org^
 ||sg-bugly-android.iegcom.com^
 ||sg-bugly-ios.iegcom.com^
+||iemiq.com^
 ||ientrymail.com^
 ||iepda.xyz^
 ||analytics.iesdev.com^
@@ -28441,6 +28460,7 @@
 ||gn.informaengage.com^
 ||technology.informaengage.com^
 ||join02.informamarkets.com^
+||informantbartonharass.com^
 ||widgets.informars.com^
 ||information.com^
 ||metrics.information-region.ru^
@@ -34634,6 +34654,7 @@
 ||minhvinh.com^
 ||miniads.ca^
 ||miniast.com^
+||miniatureoffer.pro^
 ||minidvdsoft.com^
 ||minimob.com^
 ||minimumacquitteam.com^
@@ -35526,20 +35547,7 @@
 ||pstt.mtb-news.de^
 ||mtburn.com^
 ||mtcmilr.net^
-||adx-tk.mtgglobals.com^
-||analytics.mtgglobals.com^
-||ir-new-eu-west-1a-hb-bid-feedback.mtgglobals.com^
-||ir-new-eu-west-1b-hb-bid-feedback.mtgglobals.com^
-||ir-new-eu-west-1c-hb-bid-feedback.mtgglobals.com^
-||nl-new-europe-west4-c-hb-bid-feedback.mtgglobals.com^
-||se-new-ap-northeast-2a-hb-bid-feedback.mtgglobals.com^
-||se-new-ap-northeast-2c-hb-bid-feedback.mtgglobals.com^
-||sg-new-ap-southeast-1a-hb-bid-feedback.mtgglobals.com^
-||sg-new-ap-southeast-1b-hb-bid-feedback.mtgglobals.com^
-||sg-new-ap-southeast-1c-hb-bid-feedback.mtgglobals.com^
-||vg-aws-us-east-1a-hb-bid-feedback.mtgglobals.com^
-||vg-aws-us-east-1b-hb-bid-feedback.mtgglobals.com^
-||vg-new-hb-bid-feedback.mtgglobals.com^
+||mtgglobals.com^
 ||ads.mtgroup.kr^
 ||mthsbsq.net^
 ||mtienlx.top^
@@ -35767,6 +35775,7 @@
 ||myapkcdn.in^
 ||a.myapp.com^
 ||sqdd.myapp.com^
+||adcs.myappsget.com^
 ||adcs-ap.myappsget.com^
 ||adcs-ue.myappsget.com^
 ||axp.myarklamiss.com^
@@ -35918,6 +35927,7 @@
 ||myprivatesearch.com^
 ||marketing.mypureradiance.com^
 ||albavillacampa-1319732785.cos.ap-jakarta.myqcloud.com^
+||projecta-common-1258344701.file.myqcloud.com^
 ||analytics.myqnapcloud.io^
 ||analytics.api.myqnapcloud.com^
 ||myragon.ru^
@@ -36087,6 +36097,7 @@
 ||nagahox.com^
 ||nagarh.com^
 ||naggingirresponsible.com^
+||nagi.ee^
 ||nagues.com^
 ||nagwrotedetain.com^
 ||nahnoji.cz^
@@ -38070,6 +38081,7 @@
 ||pabxoe.olx.ua^
 ||tracking.olx-st.com^
 ||ninja.data.olxcdn.com^
+||olybet.lv^
 ||olympicsappointment.com^
 ||olympusholding.co^
 ||ads.omaha.com^
@@ -38255,6 +38267,7 @@
 ||metrics.onewegg.com^
 ||onewsvod.com^
 ||svibeacon.onezapp.com^
+||vibeaconstr.onezapp.com^
 ||onfcwaif.xyz^
 ||countly.onfleet.com^
 ||onfluencer.net^
@@ -38528,6 +38541,7 @@
 ||opthushbeginning.com^
 ||opti-digital.com^
 ||optiads.org^
+||optibet.lv^
 ||opticlygremio.com^
 ||opticsbd.com^
 ||analytics.opticsplanet.com^
@@ -38805,6 +38819,7 @@
 ||otoshiana.com^
 ||otqxvqzdgl.com^
 ||otramano.org^
+||otrapuse.lv^
 ||data-f35c83b71a.ots.at^
 ||smetrics.otsuka-us.com^
 ||sentry-cli.prd.ottcds.com^
@@ -40014,6 +40029,7 @@
 ||perishcraft.com^
 ||perjurycelsiussenses.com^
 ||perk0mean.com^
+||perkamkopa.lv^
 ||perkcanada.com^
 ||info.perkinelmer.com^
 ||perlatoshoe.com^
@@ -42236,6 +42252,7 @@
 ||cdn.qgr.ph^
 ||cdn.qgraph.io^
 ||qgrnyis.cn^
+||qgsjtgvjz.com^
 ||qgvcswdmgd.com^
 ||qgxbluhsgad.com^
 ||qhbhlii.xyz^
@@ -42334,6 +42351,8 @@
 ||pmir.3g.qq.com^
 ||qappcenterv6.3g.qq.com^
 ||tools.3g.qq.com^
+||up-hl.3g.qq.com^
+||yun-hl.3g.qq.com^
 ||zxcv.3g.qq.com^
 ||qqdata.ab.qq.com^
 ||ad.qq.com^
@@ -42475,6 +42494,7 @@
 ||analytics.qrfy.com^
 ||qrirud.xyz^
 ||qrlsx.com^
+||qroagwadndwy.com^
 ||qrprobopassor.com^
 ||analytics.qs-apps.com^
 ||analytics.qsearch.cc^
@@ -50675,6 +50695,7 @@
 ||tmjwlmhc.xyz^
 ||tmlwvxae.xyz^
 ||tmmp.io^
+||tmnsstf.com^
 ||moaps.tmo.net^
 ||trusted-collector-bk.tmocce.com^
 ||analytics.tmonews.com^
@@ -52917,6 +52938,7 @@
 ||urgoldpie.club^
 ||uri6.com^
 ||urimnugocfr.com^
+||urimtats.com^
 ||urinehere.com^
 ||uringherenurew.info^
 ||data-fd53e9bda6.urlaubsguru.de^
@@ -53160,6 +53182,7 @@
 ||trk.us.vacasa.com^
 ||vacationinvolve.com^
 ||analytics.vacationscostarica.com^
+||vaccinationinvalidphosphate.com^
 ||vaccinationwear.com^
 ||vaccine-coronavirus.com^
 ||vaccinegrownparliamentary.com^
@@ -53178,6 +53201,7 @@
 ||vaicore.store^
 ||vaicore.xyz^
 ||vaikijie.net^
+||vaikrywlbmca.com^
 ||vailedapetaly.com^
 ||vainews.cn^
 ||knowledge.vaisala.com^
