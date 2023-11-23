@@ -209,6 +209,24 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "KADhosts",
+      "source": "https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "FadeMind Spam",
+      "source": "https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "WaLLy3K",
+      "source": "https://v.firebog.net/hosts/static/w3kbl.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "f97.xyz",
       "source": "https://raw.githubusercontent.com/f97/filter-list/master/f97.txt",
       "type": "adblock",
