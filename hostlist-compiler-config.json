@@ -41,6 +41,18 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "CoinMiner",
+      "source": "https://hosts.anudeep.me/mirror/CoinMiner.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
+      "name": "Adservers",
+      "source": "https://hosts.anudeep.me/mirror/adservers.txt",
+      "type": "hosts",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "Adguard Cookie List",
       "source": "https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt",
       "type": "hosts",
