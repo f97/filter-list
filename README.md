@@ -58,5 +58,5 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | KADhosts                | <https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt>                      |
 | FadeMind Spam           | <https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts>                         |
 | WaLLy3K                 | <https://v.firebog.net/hosts/static/w3kbl.txt>                                                          |
-|CoinMiner|https://hosts.anudeep.me/mirror/CoinMiner.txt|
-|Adservers|https://hosts.anudeep.me/mirror/adservers.txt|
+| CoinMiner               | <https://hosts.anudeep.me/mirror/CoinMiner.txt>                                                         |
+| Adservers               | <https://hosts.anudeep.me/mirror/adservers.txt>                                                         |
