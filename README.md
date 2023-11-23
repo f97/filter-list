@@ -27,18 +27,18 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | FMSF 2                           | <https://raw.githubusercontent.com/nmtrung/FMSF-2.0/master/fmsf_2.0.txt>                                                    |
 | NoCoin Filter List               | <https://raw.githubusercontent.com/hoshsadiq/adblock-nocoin-list/master/hosts.txt>                                          |
 | Coin Blocker Lists               | <https://gitlab.com/ZeroDot1/CoinBlockerLists/-/raw/master/list.txt>                                                        |
-| Adguard Cookie List              | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/Cookies/sections/cookies_general.txt> |
-| Adguard Mobile                   | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/MobileFilter/sections/adservers.txt>                   |
-| Adguard Base                     | <https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/BaseFilter/sections/adservers.txt>                     |
-| NextDNS CNAME Cloaking Blocklist | <https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains>                                         |
-| NextDNS Privacy - Alexa          | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa>                                      |
-| NextDNS Privacy - Apple          | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple>                                      |
-| NextDNS Privacy - Huawei         | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei>                                     |
-| NextDNS Privacy - Roku           | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku>                                       |
-| NextDNS Privacy - Samsung        | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung>                                    |
-| NextDNS Privacy - Sonos          | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos>                                      |
-| NextDNS Privacy - Windows        | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows>                                    |
-| NextDNS Privacy - Xiaomi         | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi>                                     |
+| Adguard Cookie List              | https://t.ly/_RDwH |
+| Adguard Mobile                   | https://t.ly/dK5LV                   |
+| Adguard Base                     | https://t.ly/jHP-X                     |
+| NextDNS   Cloaking  | <https://raw.githubusercontent.com/nextdns/cname-cloaking-blocklist/master/domains>                                         |
+| NextDNS - Alexa          | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/alexa>                                      |
+| NextDNS - Apple          | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/apple>                                      |
+| NextDNS - Huawei         | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/huawei>                                     |
+| NextDNS - Roku           | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/roku>                                       |
+| NextDNS - Samsung        | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/samsung>                                    |
+| NextDNS - Sonos          | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/sonos>                                      |
+| NextDNS - Windows        | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/windows>                                    |
+| NextDNS - Xiaomi         | <https://raw.githubusercontent.com/nextdns/native-tracking-domains/main/domains/xiaomi>                                     |
 | 1Hosts (mini)                    | <https://o0.pages.dev/mini/adblock.txt>                                                                                     |
 | EasyList                         | <https://easylist.to/easylist/easylist.txt>                                                                                 |
 | Smart-TV Blocklist               | <https://raw.githubusercontent.com/Perflyst/PiHoleBlocklist/master/SmartTV-AGH.txt>                                         |
@@ -54,4 +54,7 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | Disconnect Malvertising          | <https://s3.amazonaws.com/lists.disconnect.me/simple_malvertising.txt>                                                      |
 | Disconnect Tracking              | <https://s3.amazonaws.com/lists.disconnect.me/simple_tracking.txt>                                                          |
 | Steven Black                     | <https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts>                                                          |
-| Goodbye Ads                      | <https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Formats/GoodbyeAds-AdBlock-Filter.txt>                        |
+| Goodbye Ads                      | <https://t.ly/2ZI-i>                        |
+|KADhosts|https://raw.githubusercontent.com/PolishFiltersTeam/KADhosts/master/KADhosts.txt|
+|FadeMind Spam|https://raw.githubusercontent.com/FadeMind/hosts.extras/master/add.Spam/hosts|
+|WaLLy3K|https://v.firebog.net/hosts/static/w3kbl.txt|
