@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 23 Nov 2023 13:06 UTC
-! Version: 2023.1123.1306.34
+! Last modified: 24 Nov 2023 00:52 UTC
+! Version: 2023.1124.0052.37
 ! Syntax: AdBlock
-! Number of entries: 58182
+! Number of entries: 58187
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -22610,6 +22610,7 @@
 ||fijetuxa.com^
 ||fijipic.xyz^
 ||fikccnef.top^
+||fikedaquabib.com^
 ||fiksu.com^
 ||fiktvlnc.icu^
 ||filasseseeder.com^
@@ -23437,7 +23438,6 @@
 ||statistics.fppressa.ru^
 ||fprnt.com^
 ||fpt.one^
-||logs-ott.fbox.fpt.vn^
 ||fptdxkm.com^
 ||fptls.com^
 ||fptls2.com^
@@ -24172,7 +24172,6 @@
 ||garretram.com^
 ||garricketiam.website^
 ||garss.tv^
-||script.webinstaller.gartenplanze.de^
 ||tracking.gartentraum.de^
 ||analytics.gartner.com^
 ||images.digital-markets.gartner.com^
@@ -24757,6 +24756,7 @@
 ||registration.gimbal.com^
 ||sdk-info.gimbal.com^
 ||gimme-promo.com^
+||gimnsr.com^
 ||gimpingurubu.life^
 ||ginchoirblessed.com^
 ||gindeoedbadas.com^
@@ -24852,6 +24852,7 @@
 ||gkwrae.xyz^
 ||gkyropoulos.com^
 ||gkzwzzk.net^
+||gl-product-analytics.com^
 ||gla63a4l.de^
 ||glacierglorifybeetroot.com^
 ||glaciergrimly.com^
@@ -25105,6 +25106,7 @@
 ||c.go-mpulse.net^
 ||s.go-mpulse.net^
 ||s2.go-mpulse.net^
+||go-srv.com^
 ||go1news.biz^
 ||go2.global^
 ||go2affise.com^
@@ -27103,6 +27105,7 @@
 ||matomo.hoa-express.com^
 ||hoa44trk.com^
 ||hoabinoo.net^
+||hoagiesmowed.com^
 ||hoakz.xyz^
 ||hoanoola.net^
 ||hoardglitterjeanne.com^
@@ -30781,6 +30784,7 @@
 ||kbqebfcubeiaa.com^
 ||matomo.kbs.de^
 ||kbywyjnqrjaaa.top^
+||kbzs88.com^
 ||e.kc-education.com^
 ||ssc.kcamexico.com^
 ||kcieo.xyz^
@@ -31236,6 +31240,7 @@
 ||kochava.com^
 ||data-e4dc2eea88.kochbar.de^
 ||kochov.com^
+||kodagupinkoes.com^
 ||kodcad.kr^
 ||koddata.com^
 ||koddi.com^
@@ -35850,6 +35855,7 @@
 ||murcia-ban.es^
 ||murderassuredness.com^
 ||murdoog.com^
+||muricidmartins.com^
 ||muriheem.net^
 ||murkilyergots.com^
 ||murkymeeting.com^
@@ -40836,7 +40842,6 @@
 ||playsdonkey.com^
 ||metrics.aem.playstation.com^
 ||smetrics.aem.playstation.com^
-||telemetry.api.playstation.com^
 ||metrics.eu.playstation.com^
 ||smetrics.eu.playstation.com^
 ||metrics.us.playstation.com^
