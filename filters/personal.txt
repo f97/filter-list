@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 24 Nov 2023 13:05 UTC
-! Version: 2023.1124.1305.21
+! Last modified: 25 Nov 2023 01:04 UTC
+! Version: 2023.1125.0104.14
 ! Syntax: AdBlock
-! Number of entries: 58250
+! Number of entries: 58255
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -557,7 +557,6 @@
 ||24linux.com^
 ||stat.24liveplus.com^
 ||24log.com^
-||24log.de^
 ||24log.es^
 ||24log.fr^
 ||24log.it^
@@ -1057,18 +1056,15 @@
 ||3myad.com^
 ||3ng6p6m0.de^
 ||3p8801.co^
-||metric.3pm.ai^
 ||3qfe1gfa.de^
 ||3ssem.com^
 ||pclog.3u.com^
 ||3utilities.com^
 ||3uvz5.xyz^
-||3v7c7y.com^
 ||3vulkanvegas.com^
 ||revive.3wayint.com^
 ||3x.ro^
 ||40017.cn^
-||401aww.com^
 ||4030b44c32.com^
 ||analytics.404.limited^
 ||404joyful.com^
@@ -16075,6 +16071,7 @@
 ||cteripre.com^
 ||cthbini.xyz^
 ||cthisismoych.com^
+||cthkgodgy.com^
 ||cticalwhichhere.info^
 ||ctienlf.top^
 ||z492.ctinsider.com^
@@ -20540,7 +20537,11 @@
 ||aanalytics.adelaide.edu.au^
 ||atarget.adelaide.edu.au^
 ||countly.bjtu.edu.cn^
-||chnu.edu.ua^
+||archer.chnu.edu.ua^
+||biosystems-journal.chnu.edu.ua^
+||hj.chnu.edu.ua^
+||moodle.chnu.edu.ua^
+||www.chnu.edu.ua^
 ||smetrics.deakin.edu.au^
 ||stt.deakin.edu.au^
 ||analytics.dschool.edu.gr^
@@ -22957,7 +22958,7 @@
 ||fleeoutspoken.com^
 ||fleetformy.com^
 ||fleeunleashangel.com^
-||sdfdfff.flelgwe.site^
+||flelgwe.site^
 ||flerap.com^
 ||fleraprt.com^
 ||support.flex.com^
@@ -23530,6 +23531,7 @@
 ||xml-eu-v4.frdjs-1.co^
 ||xml-v4.frdjs-1.co^
 ||frdjs-2.co^
+||freakisharithmetic.com^
 ||freakishmartyr.com^
 ||clarity.freddiemac.com^
 ||images.eloqua.fredhutch.org^
@@ -24254,7 +24256,7 @@
 ||gaylordhotelsnews.com^
 ||gazacham.ps^
 ||gazedice.com^
-||zy.gazeesoter.com^
+||gazeesoter.com^
 ||biv.gazeta.pl^
 ||mklik.gazeta.pl^
 ||p.gazeta.pl^
@@ -24276,6 +24278,7 @@
 ||metrics.gcimetrics.com^
 ||smetrics.gcimetrics.com^
 ||metrics.cloud.gcore.lu^
+||gcotipdaxatp.com^
 ||gcqcanada.com^
 ||analytics.gcsepod.com^
 ||gcsrqiy.net^
@@ -29895,6 +29898,7 @@
 ||jackpotbeautifulsulky.com^
 ||jackpotpresents.com^
 ||smetrics.jackson.com^
+||jacksonduct.com^
 ||bxumze.jacksonville.com^
 ||jackyeby.com^
 ||jaclottens.live^
@@ -58122,6 +58126,7 @@
 ||recycle.zoznam.sk^
 ||recycle-static.zoznam.sk^
 ||refwkk.zoznam.sk^
+||azq.zozo.jp^
 ||rtm-tracking.zozo.jp^
 ||football.zp.ua^
 ||metrics.zpabeta.net^
