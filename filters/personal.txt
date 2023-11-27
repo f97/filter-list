@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 26 Nov 2023 13:17 UTC
-! Version: 2023.1126.1317.39
+! Last modified: 27 Nov 2023 01:26 UTC
+! Version: 2023.1127.0126.24
 ! Syntax: AdBlock
-! Number of entries: 58256
+! Number of entries: 58232
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -1404,7 +1404,6 @@
 ||69slottica.com^
 ||69v.club^
 ||6a288eb054.com^
-||6absjda66.monster^
 ||6ad5d7a9aa285849df0f7a776f52d17a861901df9fdcda9db9b3404d.com^
 ||6bgaput9ullc.com^
 ||6c5xnntfvi.com^
@@ -3318,6 +3317,7 @@
 ||adstargets.com^
 ||adstatic.com^
 ||adstdg.net^
+||adstean.com^
 ||adsterra.com^
 ||adsterratech.com^
 ||adstico.io^
@@ -3399,6 +3399,7 @@
 ||adtlgc.com^
 ||adtng.com^
 ||adtoma.com^
+||play.adtonos.com^
 ||adtoox.com^
 ||adtorque.in^
 ||adtpix.com^
@@ -6781,7 +6782,6 @@
 ||securefamilylink.wireless.att.com^
 ||app.response.att-mail.com^
 ||attachedkneel.com^
-||attarbesets.com^
 ||attempttipsrye.com^
 ||attendanceceasless.com^
 ||analytics.attensi.com^
@@ -8531,7 +8531,6 @@
 ||bightsruana.com^
 ||i.bigin.io^
 ||biglaughs.org^
-||biglinksrc.cool^
 ||rfk.biglots.com^
 ||bigmining.com^
 ||c.bigmir.net^
@@ -10073,7 +10072,6 @@
 ||bwbmyzvjnqlna.top^
 ||bwbmyzvjnqlwv.top^
 ||track.bwclk.com^
-||bwdiy.cn^
 ||bwinpartypartners.com^
 ||bwmvzwkbqlmrz.top^
 ||bwqdhue.com^
@@ -11032,7 +11030,6 @@
 ||cegadazwdsp.com^
 ||cehuiy.com^
 ||ceillons.site^
-||ceiuip.icu^
 ||cekladod.com^
 ||celaenomash.com^
 ||matomo.celax.asia^
@@ -11302,7 +11299,6 @@
 ||chaudoantown.com^
 ||chaugroo.net^
 ||chauinubbins.com^
-||chaukrgukepers.xyz^
 ||chaursug.xyz^
 ||chaussew.net^
 ||chaussures-samson.fr^
@@ -16170,7 +16166,6 @@
 ||cushawsdizens.com^
 ||cushiondrum.com^
 ||cusok.ru^
-||cuspingbuckoes.cfd^
 ||custodybout.com^
 ||customads.co^
 ||customapi.top^
@@ -18783,7 +18778,6 @@
 ||dfvvx58.com^
 ||dfxvkgz.xyz^
 ||dgafgadsgkjg.top^
-||dgayibf.icu^
 ||dgdaerxing.com^
 ||dgduwb.com^
 ||dgemanowhowe.xyz^
@@ -18920,7 +18914,6 @@
 ||data-44baecba13.digitalfernsehen.de^
 ||ads.digitalfirstmedia.com^
 ||a.digitalgiftshopping.com^
-||metric.digitalhub.com^
 ||digitaliseringsinitiativet.se^
 ||digitalkites.com^
 ||data.digitalks.az^
@@ -19270,7 +19263,6 @@
 ||streamstats.prd.dlive.tv^
 ||dlmewheniyv.xyz^
 ||dlmonitize.com^
-||metric.dlocal.com^
 ||dlqmaup.com^
 ||ccm1.dlr.de^
 ||dlslw.com^
@@ -19360,7 +19352,6 @@
 ||dobrnovosti.com^
 ||doccd.xyz^
 ||adserver.doccheck.com^
-||matomo.doccleservices.be^
 ||matomo.doccleservices.eu^
 ||adk.docer.pl^
 ||doceree.com^
@@ -19466,7 +19457,6 @@
 ||domeclosureassert.com^
 ||domicileperil.com^
 ||sentry.domik.ua^
-||dominantcodes.com^
 ||dominantroute.com^
 ||smetrics.dominos.com^
 ||b.prod1.youroffers.dominos.ca^
@@ -19662,7 +19652,6 @@
 ||advertising-cdn.target.dpgmedia.cloud^
 ||advertising-module.target.dpgmedia.cloud^
 ||dphfhpd.com^
-||dpj0uvy.icu^
 ||dpmsrv.com^
 ||dpns-notifications.com^
 ||dprince.org^
@@ -20010,7 +19999,6 @@
 ||dvypar.com^
 ||dwclick.com^
 ||dweatherbe.org^
-||analytics.dwebsite.com^
 ||dwelc.com^
 ||dwellingmerrimentrecorder.com^
 ||dwellingsensationalthere.com^
@@ -20029,7 +20017,6 @@
 ||mit.dws.de^
 ||track.dws.de^
 ||dwwmaster.com^
-||dwyngjb.icu^
 ||plausible.dwysokinski.me^
 ||smetrics.dxc.com^
 ||bn.dxlive.com^
@@ -20164,7 +20151,6 @@
 ||e78426c787.com^
 ||e7z9t4x6a0v5mk3zo1a0xj2z7c6g8sa6js5z7s2c3h9x0s5fh3a6sjwb8q7m.xyz^
 ||e89dafb480.com^
-||e8jp9.com^
 ||e954669112.com^
 ||c4d145f4fc.e969e75a2a.com^
 ||e98c4a21c0.com^
@@ -20754,7 +20740,6 @@
 ||analytics-ingestion-prod.x8um6iuan5.eu-central-1.elasticbeanstalk.com^
 ||act-server-prod.7swnm9dm8q.eu-west-1.elasticbeanstalk.com^
 ||tp-rtb-adserver-eu.eu-west-1.elasticbeanstalk.com^
-||analytics-dev-env.us-east-1.elasticbeanstalk.com^
 ||analytics-stg-env.us-east-1.elasticbeanstalk.com^
 ||newtail-adserver-api-v4-prod.us-east-1.elasticbeanstalk.com^
 ||stats-iobit-com.us-east-1.elasticbeanstalk.com^
@@ -27343,18 +27328,7 @@
 ||hottercensorbeaker.com^
 ||sanalytics.hottopic.com^
 ||vdkjfd.hottopic.com^
-||fr34.hottracker.biz^
-||fr35.hottracker.biz^
-||fr36.hottracker.biz^
-||fr37.hottracker.biz^
-||fr42.hottracker.biz^
-||fr43.hottracker.biz^
-||usa11-2.hottracker.biz^
-||usa12.hottracker.biz^
-||usa13.hottracker.biz^
-||usa17.hottracker.biz^
-||usa18.hottracker.biz^
-||usa19.hottracker.biz^
+||hottracker.biz^
 ||hotwildadult.com^
 ||om.hotwire.com^
 ||som.hotwire.com^
@@ -47473,7 +47447,6 @@
 ||soalonie.com^
 ||soaperdeils.com^
 ||soapfighters.com^
-||soapps.net^
 ||analytics.soapsspoilers.com^
 ||plausible.soaringmeteo.org^
 ||sobakenchmaphk.com^
@@ -49797,6 +49770,7 @@
 ||tbcconnect.ge^
 ||tbiwkjomju.com^
 ||tbm09.com^
+||tbpot.com^
 ||sanalytics.tbs.com^
 ||tc-clicks.com^
 ||tc911.vip^
@@ -50522,6 +50496,7 @@
 ||thirtyfellowpresumptuous.com^
 ||thiscombinationdecorated.com^
 ||marketing.thisiscleveland.com^
+||ads.audio.thisisdax.com^
 ||tracking.audio.thisisdax.com^
 ||thisiswaldo.com^
 ||thislaboratory.com^
@@ -55636,6 +55611,7 @@
 ||wifescamara.click^
 ||wifizone.org^
 ||wifly.net^
+||wigcpgdlqbqof.com^
 ||wigetmedia.com^
 ||wigfulchiack.com^
 ||wigglestoriesapt.com^
