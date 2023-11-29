@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 28 Nov 2023 13:03 UTC
-! Version: 2023.1128.1303.11
+! Last modified: 29 Nov 2023 01:17 UTC
+! Version: 2023.1129.0117.43
 ! Syntax: AdBlock
-! Number of entries: 59226
+! Number of entries: 59201
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -72,6 +72,7 @@
 ||a79a5e2f73.0741cb485e.com^
 ||0743j.com^
 ||076lvo.xyz^
+||079301eaff0975107716716fd1cb0dcd.com^
 ||07aa269c0e76550c929640c170af557c7371753ba1b580236d7fa0a4.com^
 ||f0070733b3.07c6b39b80.com^
 ||0819478661.com^
@@ -6404,7 +6405,7 @@
 ||argyresthia.com^
 ||wyzdlu.arhaus.com^
 ||smetrics.arhealthwellness.com^
-||mp.arianatainos.com^
+||arianatainos.com^
 ||ariapawners.space^
 ||knymhv.ariat.com^
 ||ariatwear.online^
@@ -9348,6 +9349,7 @@
 ||bolejug.us^
 ||bolgspot.com^
 ||bollenhurkle.com^
+||boloptrex.com^
 ||bolrookr.com^
 ||analytics.bolt.com^
 ||bolt8snap.com^
@@ -19414,6 +19416,7 @@
 ||dismantlepenantiterrorist.com^
 ||dismountroute.com^
 ||dismountthreateningoutline.com^
+||ads.digital.disneyadvertising.com^
 ||t.vacations.disneydestinations.com^
 ||t.visit.disneydestinations.com^
 ||analytics.disneyinternational.com^
@@ -28636,6 +28639,7 @@
 ||ilquige.com^
 ||ilriparatutto.eu^
 ||metrics.ilsole24ore.com^
+||ddl.alma.iltalehti.fi^
 ||limone.iltrovatore.it^
 ||ilyf4amifh.com^
 ||1.im.cz^
@@ -31269,6 +31273,7 @@
 ||kbfvzoboss.bid^
 ||kbivgyaakcntdet.com^
 ||kbkewkjlqjqzr.top^
+||kbmaxbfpbfw.com^
 ||creative.kbnmnl.com^
 ||kbqebfcubeiaa.com^
 ||matomo.kbs.de^
@@ -36684,7 +36689,6 @@
 ||esa-reg-eup.myoppo.com^
 ||myopyrum.digital^
 ||ot.myotomyarkab.com^
-||myownshop.at^
 ||mypagerank.net^
 ||mypagerank.ru^
 ||mypcbackup.com^
@@ -37301,8 +37305,6 @@
 ||nefing.com^
 ||neglectdrivingalertness.com^
 ||neglectsquad.com^
-||negotiatefoam.cn^
-||negotiationmajestic.com^
 ||negrineoakwood.com^
 ||negyuk.com^
 ||nehree.com^
@@ -37390,7 +37392,6 @@
 ||net-filter.com^
 ||net-giftshop.info^
 ||net-public.com^
-||net00.biz^
 ||s.net2share.com^
 ||net3allem.com^
 ||netadclick.com^
@@ -37598,14 +37599,12 @@
 ||news-xehola.com^
 ||news-yakaja.cc^
 ||news-zolehe.com^
-||news02.biz^
 ||statistics.news1.kr^
 ||axp.news10.com^
 ||news2day.me^
 ||data-a38e203a07.news38.de^
 ||data-c3391a3eb3.news38.de^
 ||newsaboutsugar.com^
-||newsadsppush.com^
 ||prebid-server.newsbreak.com^
 ||newscadence.com^
 ||newscgp.com^
@@ -37637,7 +37636,6 @@
 ||trends.newsmaxwidget.com^
 ||axp.newsnationnow.com^
 ||newsnourish.com^
-||newsorg.ru^
 ||bidder.newspassid.com^
 ||newsprofin.com^
 ||events.newsroom.bi^
@@ -37766,7 +37764,6 @@
 ||nhlqfaf.com^
 ||info.nhlseattle.com^
 ||collector-statistics.nhn-commerce.com^
-||nhopaepzrh.com^
 ||nhpfvdlbjg.com^
 ||nhpyige.cc^
 ||nhqxzqvkj.com^
@@ -37863,7 +37860,6 @@
 ||nikeairforce-1.fr^
 ||adtech-prod.nikecloud.com^
 ||nikerequin.fr^
-||analytics.nikesportpulse.com^
 ||niketn-pascher.fr^
 ||niketnrequin-pascher.fr^
 ||astat.nikkei.com^
@@ -38123,6 +38119,7 @@
 ||northprofit.co^
 ||assets-v2.northsidesun.com^
 ||northstartravelmedia.com^
+||northwestdiddived.com^
 ||metrics.northwesternmutual.com^
 ||metricssecure.northwesternmutual.com^
 ||ensighten.norton.com^
@@ -38822,7 +38819,6 @@
 ||romatotti520.oicp.io^
 ||oidaio.com^
 ||oifyeldk.top^
-||oigduusrva.com^
 ||oijkse.com^
 ||oil-profits.com^
 ||oilishgotch.com^
@@ -38862,7 +38858,6 @@
 ||traffic.okfn.de^
 ||okidok.se^
 ||okienamare.com^
-||okitwpyslqm.com^
 ||oklahi.com^
 ||hcjpbc.okmagazine.com^
 ||okmhmkjnm.com^
@@ -38906,7 +38901,6 @@
 ||smetric.olivegarden.com^
 ||smetrics.oliverpeoples.com^
 ||analytics.olivetree.com^
-||ollsukztoo.com^
 ||olltcqg.xyz^
 ||olmsoneenh.info^
 ||trk.olnl.net^
@@ -39449,22 +39443,13 @@
 ||go-stage.oracle.com^
 ||tms.oracle.com^
 ||objectstorage.af-johannesburg-1.oraclecloud.com^
-||analytics.oraclecloud.com^
 ||objectstorage.ap-sydney-1.oraclecloud.com^
 ||analytics.em2.oraclecloud.com^
 ||analytics.em3.oraclecloud.com^
 ||objectstorage.eu-amsterdam-1.oraclecloud.com^
 ||objectstorage.eu-paris-1.oraclecloud.com^
-||metric.oraclecloud.com^
-||metrics.oraclecloud.com^
 ||objectstorage.mx-queretaro-1.oraclecloud.com^
-||analytics.oci.oraclecloud.com^
-||metric.oci.oraclecloud.com^
-||metrics.oci.oraclecloud.com^
 ||analytics.ocp.oraclecloud.com^
-||analytics.ocs.oraclecloud.com^
-||metric.ocs.oraclecloud.com^
-||metrics.ocs.oraclecloud.com^
 ||visit-prod-us.occa.ocs.oraclecloud.com^
 ||analytics.pp1.oraclecloud.com^
 ||analytics.us2.oraclecloud.com^
@@ -39898,7 +39883,6 @@
 ||ouzavamt.com^
 ||ouzosbesiren.com^
 ||ovariesutopia.com^
-||metric.ovationtravel.com^
 ||data-f59db3288b.ovb-online.de^
 ||ovdimin.buzz^
 ||ovementerter.xyz^
@@ -39933,7 +39917,6 @@
 ||overreactsewershaped.com^
 ||overseasjune.com^
 ||oversee.net^
-||oversightbullet.com^
 ||analytics.overstockart.com^
 ||overswaloton.com^
 ||overtimeequation.com^
@@ -40497,7 +40480,6 @@
 ||analytics.partners.paysafecard.com^
 ||payserve.com^
 ||paysqueak.com^
-||analytics.paytm.com^
 ||countly.paytm.com^
 ||piwik.secure.payu.com^
 ||metric.payusaklarna.com^
@@ -40792,7 +40774,6 @@
 ||performedlifestyleburial.com^
 ||metrics.performgroup.com^
 ||smetrics.performgroup.com^
-||spt.performgroup.com^
 ||performics.com^
 ||performinggushorseman.com^
 ||performingwhosegride.com^
@@ -41369,7 +41350,6 @@
 ||applogs.pixelfederation.com^
 ||applogs-v2.pixelfederation.com^
 ||pixelhere.com^
-||pixelmailcollect.click^
 ||pixelplay.pro^
 ||pixelpop.co^
 ||pixels.asia^
@@ -41402,7 +41382,6 @@
 ||wa.pjplace.com^
 ||pjqchcfwtw.com^
 ||pjsbuhl.icu^
-||pjsefaqzyjv.com^
 ||pjstat.com^
 ||pjy55d.com^
 ||pjzmbhf.cn^
@@ -41568,7 +41547,6 @@
 ||ploygunline.com^
 ||plpanaifheaighai.com^
 ||plrjs.org^
-||plsdrct1.me^
 ||pltapad.com^
 ||pltraffic8.com^
 ||pluckfigburst.com^
@@ -41626,7 +41604,6 @@
 ||pmvmaltings.com^
 ||pmxalz.xyz^
 ||pn.vg^
-||pn10.xyz^
 ||analytics.pnbindia.in^
 ||analytics.pnc.com^
 ||u44.pnc.com^
@@ -41748,7 +41725,6 @@
 ||smetrics.politico.com^
 ||smetrics.politico.eu^
 ||smetrics.politicopro.com^
-||metric.polkadoc.com^
 ||polki-nago.pl^
 ||pollingpephonourable.com^
 ||pollpublicly.com^
@@ -41847,7 +41823,6 @@
 ||poplarcolonistgreatest.com^
 ||popmansion.com^
 ||popmarker.com^
-||popmog.com^
 ||popmonetizer.com^
 ||popmonetizer.net^
 ||popmyads.com^
@@ -41929,7 +41904,6 @@
 ||rst.pornyhd.com^
 ||pororin081.com^
 ||porovname.cz^
-||metric.porsche.com^
 ||portalhc.com^
 ||analytics.portalinmobiliario.com^
 ||portalregionstip.com^
@@ -41968,7 +41942,6 @@
 ||posst.co^
 ||jslog.post.cz^
 ||matomo.post.at^
-||mond.post.ch^
 ||d.post-gazette.com^
 ||post-redirecting.com^
 ||postalusersneatly.com^
@@ -47814,6 +47787,7 @@
 ||slapclergymoth.com^
 ||slapexcitedly.com^
 ||slaqandsan.xyz^
+||slartsighter.com^
 ||slashcynical.com^
 ||analytics.slashdotmedia.com^
 ||slashstar.net^
@@ -49819,6 +49793,7 @@
 ||superbcallempty.com^
 ||superbwigs.com^
 ||supercell.net^
+||collector.snowplow.supercell.com^
 ||analytics.support.supercell.com^
 ||superchat.live^
 ||superclix.de^
