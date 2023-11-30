@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
-! Version: 20231130162255
+! Version: 20231130194239
 ! Title: ABPVN List
-! Last modified: 30 Nov 2023 16:22:55 UTC+7
+! Last modified: 30 Nov 2023 19:42:39 UTC+7
 ! Expires: 1 days (update frequency)
 !
 ! ABPVN List filter
@@ -986,6 +986,7 @@ plvb.xyz##.odds-button
 plvb.xyz##.odds-button2
 protruyen.xyz##.click-ads
 protruyen.xyz##.click-ads ~ p
+protruyen.xyz##.overlay-close
 protruyen.xyz##div.mrb10
 qdnd.vn##.box-banner
 qthang.net##.ad-script
@@ -1359,6 +1360,7 @@ pops.vn#@##adsContainer
 pops.vn,vkoolsss.net#@#.ad-placement
 qthang.net#@#.advert-wrap
 qthang.net#@#.widget-ad
+timvanban.vn#@##ad-slot
 tratu.soha.vn#@#.adheader
 truyenaudiocv.org#@#.ads-large
 vn2phim.com#@#.advertiser
@@ -1376,6 +1378,7 @@ $third-party,script,domain=sexdiaryx.us
 ||cliphotvn.pro^*.gif$image
 ||discordapp.$image,domain=phym18.org|phim18vipb.com
 ||greenupload.com^*.gif$image,domain=thiendia1.net
+||greenupload.com^*ad-$image,domain=thiendia1.net
 ||greenupload.com^*banner$image
 ||hentaivn.autos/qx/$subdocument
 ||i.ibb.co^$image,domain=thiendia1.net
