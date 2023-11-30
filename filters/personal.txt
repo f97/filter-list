@@ -3,10 +3,10 @@
 ! Homepage: https://github.com/hagezi/dns-blocklists
 ! Issues: https://github.com/hagezi/dns-blocklists/issues
 ! Expires: 1 day
-! Last modified: 29 Nov 2023 13:02 UTC
-! Version: 2023.1129.1302.38
+! Last modified: 30 Nov 2023 00:52 UTC
+! Version: 2023.1130.0052.17
 ! Syntax: AdBlock
-! Number of entries: 61242
+! Number of entries: 61255
 !
 ||0008d6ba2e.com^
 ||000space.com^
@@ -180,7 +180,6 @@
 ||1158tp.com^
 ||116bea31bf.com^
 ||1170555.com^
-||1188.lv^
 ||statistics.11880.com^
 ||1190555.com^
 ||1198194.com^
@@ -7188,7 +7187,6 @@
 ||data-cd0b4bd19f.auto-motor-und-sport.de^
 ||matomo.auto-motor-und-sport.de^
 ||auto-ping.com^
-||auto24.lv^
 ||sstats.auto5.be^
 ||autoads.asia^
 ||autoaudience.com^
@@ -8540,6 +8538,7 @@
 ||best-offer-for-you.com^
 ||ipfs.best-practice.se^
 ||best-prize.life^
+||best-seat.pro^
 ||best-site-online.com^
 ||best-targeted-traffic.com^
 ||best-top.de^
@@ -10005,6 +10004,7 @@
 ||news.bridgetowermedia.com^
 ||bridgetrack.com^
 ||bridgevine.com^
+||brief-tank.pro^
 ||briefcasebuoyduster.com^
 ||brieflizard.com^
 ||brightadnetwork.com^
@@ -16009,6 +16009,7 @@
 ||commonswing.com^
 ||commontools.net^
 ||commonvivacious.com^
+||commonwealthproficient.com^
 ||comoinvertir.co^
 ||comoinvertir.pe^
 ||compactblackmailmossy.com^
@@ -17729,6 +17730,7 @@
 ||days-neighborhood.com^
 ||days-news.ru^
 ||analytics.dayssinceapp.com^
+||daysstone.com^
 ||daytiengnhat.org^
 ||dayznews.biz^
 ||dazedengage.com^
@@ -21204,6 +21206,7 @@
 ||dzhyqet.com^
 ||dzienkudrow.com^
 ||dzkwj0y.xyz^
+||dzliege.com^
 ||dzrs3yuexz.com^
 ||dzt.hr^
 ||dzubavstal.com^
@@ -21844,6 +21847,7 @@
 ||eieindonesia.com^
 ||logger.eigene.io^
 ||receiver.eigene.io^
+||eighteenderived.com^
 ||eighthwaspish.com^
 ||eighttimeseight.com^
 ||eightuntrue.com^
@@ -23122,6 +23126,7 @@
 ||extractforgiveness.com^
 ||extracthorizontaldashing.com^
 ||extractobservation.com^
+||extractsupperpigs.com^
 ||clk.extrahelpmedi.care^
 ||relations.extrahop.com^
 ||extraneedlesshoneycomb.com^
@@ -23899,7 +23904,6 @@
 ||filmy-zilla.lat^
 ||filmynadzis.pl^
 ||filthybudget.com^
-||fimc.net^
 ||fin.ovh^
 ||coopcentro.fin.ec^
 ||metric.dev.fin.ag^
@@ -26347,6 +26351,7 @@
 ||glochatuji.com^
 ||glocmauy.xyz^
 ||cadtongji.glodon.com^
+||glomocon.xyz^
 ||gloodain.net^
 ||gloodsie.com^
 ||gloogeed.xyz^
@@ -27292,6 +27297,7 @@
 ||tui.gtimg.com^
 ||vmat.gtimg.com^
 ||wa.gtimg.com^
+||gtitcah.com^
 ||ylxq.gtm-dukelgagigal.com^
 ||gtmjs.com^
 ||gtoonfd.com^
@@ -33831,6 +33837,7 @@
 ||lehengascholi.in^
 ||analytics.lehigh.edu^
 ||lehner.biz^
+||lehrer-finden.de^
 ||sentry-01.lehrermarktplatz.de^
 ||leiasedofold.xyz^
 ||leidad.xyz^
@@ -38277,7 +38284,6 @@
 ||nagahox.com^
 ||nagarh.com^
 ||naggingirresponsible.com^
-||nagi.ee^
 ||nagues.com^
 ||nagwrotedetain.com^
 ||nahitahukuk.com^
@@ -38981,6 +38987,7 @@
 ||newhand.name^
 ||analytics.newhome.ch^
 ||newideasec.com^
+||ead.newint.org^
 ||newir3ltyug79aiman.com^
 ||newiro.com^
 ||newitshev.com^
@@ -40380,7 +40387,6 @@
 ||ninja.data.olxcdn.com^
 ||olxdeal.com^
 ||olxshop.com^
-||olybet.lv^
 ||olympicsappointment.com^
 ||olympicscientific.ca^
 ||olympusholding.co^
@@ -40858,7 +40864,6 @@
 ||opthushbeginning.com^
 ||opti-digital.com^
 ||optiads.org^
-||optibet.lv^
 ||opticlygremio.com^
 ||opticsbd.com^
 ||analytics.opticsplanet.com^
@@ -41170,7 +41175,6 @@
 ||otoshiana.com^
 ||otqxvqzdgl.com^
 ||otramano.org^
-||otrapuse.lv^
 ||data-f35c83b71a.ots.at^
 ||smetrics.otsuka-us.com^
 ||sentry-cli.prd.ottcds.com^
@@ -41760,10 +41764,12 @@
 ||panoramicplane.com^
 ||panoramio.com^
 ||analytics.panoskin.com^
+||panoz.xyz^
 ||smetric.panpacific.com^
 ||pantdentaldonate.com^
 ||ads.pantip.com^
 ||pantiwilasa.app^
+||pantsurplus.com^
 ||message.pantychallenges.com^
 ||panyarspan.com^
 ||paolinee.com^
@@ -42443,7 +42449,6 @@
 ||perishcraft.com^
 ||perjurycelsiussenses.com^
 ||perk0mean.com^
-||perkamkopa.lv^
 ||perkcanada.com^
 ||info.perkinelmer.com^
 ||perlatoshoe.com^
@@ -45693,6 +45698,7 @@
 ||realclever.com^
 ||realclick.vn^
 ||marketing.realcomm.com^
+||realescowbell.com^
 ||uk.realestate.bnpparibas^
 ||realestateimpact.us^
 ||realevalbs.com^
@@ -47286,6 +47292,7 @@
 ||ruptionverst.space^
 ||hz.ruptureboogum.com^
 ||rural-patience.com^
+||rural-report.pro^
 ||ruralrobin.com^
 ||rurber.com^
 ||rurbie.com^
@@ -47435,6 +47442,7 @@
 ||sachikru1.com^
 ||sacquebenzine.com^
 ||sacre.cn^
+||sacrificeaffliction.com^
 ||sadbasindinner.com^
 ||sadflannel.com^
 ||sadjklq.com^
@@ -51581,6 +51589,7 @@
 ||sunnyandscramble.com^
 ||sunnylandingpages.com^
 ||sunnyplayer.com^
+||sunnysubject.com^
 ||cool.sunporno.com^
 ||smart.sunporno.com^
 ||so.sunrise.ch^
@@ -52569,6 +52578,7 @@
 ||technicalconsumerreports.com^
 ||technicallyobviously.com^
 ||marketing.technicalprospects.com^
+||techniciancocoon.com^
 ||technicianforestallproper.com^
 ||technicupdate.com^
 ||technocometsolutions.com^
@@ -53282,6 +53292,7 @@
 ||threerfdfgourgold.com^
 ||threetruck.com^
 ||analytics.thrfive.io^
+||thrillingpairsreside.com^
 ||thrilok.com^
 ||thripelbertie.website^
 ||thrissurcalltaxi.com^
@@ -54863,6 +54874,7 @@
 ||tsumatsuma.xyz^
 ||tswgqcseq.com^
 ||tsx.org^
+||tsyfnhd.com^
 ||tsyndicate.com^
 ||tsyndicate.net^
 ||analytics.tsys.com^
@@ -57030,7 +57042,7 @@
 ||viral782.com^
 ||viralbangla.com^
 ||viralbeat.com^
-||viralize.tv^
+||ads.viralize.tv^
 ||viralltopics.com^
 ||viralmails.de^
 ||a.viralnewsbd.xyz^
@@ -59115,6 +59127,7 @@
 ||wrestlingexposed.com^
 ||wretchmilitantasia.com^
 ||wrevenuewasadi.info^
+||wrfkjw.com^
 ||connect.wri.org^
 ||axp.wric.com^
 ||wrieducation.com^
