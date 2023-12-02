@@ -5,6 +5,12 @@
   "license": "GPLv3",
   "sources": [
     {
+      "name": "Facebook Extended",
+      "source": "https://www.github.developerdan.com/hosts/lists/facebook-extended.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "OISD Big List",
       "source": "https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt",
       "type": "adblock",
