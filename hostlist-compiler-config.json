@@ -5,20 +5,8 @@
   "license": "GPLv3",
   "sources": [
     {
-      "name": "Facebook List",
-      "source": "https://raw.githubusercontent.com/blocklistproject/Lists/master/facebook.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
       "name": "Tiktok List",
       "source": "https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt",
-      "type": "adblock",
-      "transformations": ["RemoveComments", "Compress", "Validate"]
-    },
-    {
-      "name": "Facebook Extended",
-      "source": "https://www.github.developerdan.com/hosts/lists/facebook-extended.txt",
       "type": "adblock",
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
