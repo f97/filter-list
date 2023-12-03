@@ -10423,7 +10423,6 @@
 ||xlog-va.byteoversea.com^
 ||xlog-va-useast2a.byteoversea.com^
 ||bytesabbreviation.com^
-||lf-cdn-tos.bytescm.com^
 ||bytesdictatescoop.com^
 ||bytesreunitedcedar.com^
 ||bytogeticr.com^
