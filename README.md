@@ -22,8 +22,8 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | ----------------------- | ------------------------------------------------------------------------------------------------------- |
 | f97.xyz                 | <https://raw.githubusercontent.com/f97/filter-list/master/f97.txt>                                      |
 | Facebook Extended       | <https://www.github.developerdan.com/hosts/lists/facebook-extended.txt>                                 |
-|Facebook List|https://raw.githubusercontent.com/blocklistproject/Lists/master/facebook.txt|
-|Tiktok List|https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt|
+| Facebook List           | <https://raw.githubusercontent.com/blocklistproject/Lists/master/facebook.txt>                          |
+| Tiktok List             | <https://raw.githubusercontent.com/blocklistproject/Lists/master/tiktok.txt>                            |
 | OISD Big List           | <https://raw.githubusercontent.com/sjhgvr/oisd/main/oisd_big.txt>                                       |
 | VNM: ABPVN List         | <https://raw.githubusercontent.com/abpvn/abpvn/master/filter/abpvn.txt>                                 |
 | Bigdargon - hostsVN     | <https://raw.githubusercontent.com/bigdargon/hostsVN/master/hosts>                                      |
