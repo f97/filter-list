@@ -4,9 +4,9 @@
 # License: GNU General Public License v3.0
 # Home: https://quidsup.net/notrack/blocklist.php
 # @ GitLab : https://gitlab.com/quidsup/notrack-blocklists
-# Updated: 02 Dec 2023
+# Updated: 03 Dec 2023
 # LatestVersion 22.10
-# Domain Count: 16667
+# Domain Count: 16665
 #===============================================================
 
 028708717f.com
@@ -627,7 +627,6 @@ analytics.flatart.agency
 analytics.flipperdevices.com
 analytics.formstack.com
 analytics.freemake.com
-analytics.functionofbeauty.com
 analytics.gandi.net
 analytics.generalmills.com
 analytics.getpostman.com
@@ -1473,7 +1472,6 @@ criteo.net
 criticaltriggerweather.com
 crobo.com
 crossingwhile.com
-crosspixel.net
 crosspromo.voodoo.io
 crowdignite.com
 crsspxl.com
