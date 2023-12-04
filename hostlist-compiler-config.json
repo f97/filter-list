@@ -245,6 +245,12 @@
       "transformations": ["RemoveComments", "Compress", "Validate"]
     },
     {
+      "name": "Toxic Domains",
+      "source": "https://www.stopforumspam.com/downloads/toxic_domains_whole.txt",
+      "type": "adblock",
+      "transformations": ["RemoveComments", "Compress", "Validate"]
+    },
+    {
       "name": "f97.xyz",
       "source": "https://raw.githubusercontent.com/f97/filter-list/master/f97.txt",
       "type": "adblock",
