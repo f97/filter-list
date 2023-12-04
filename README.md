@@ -61,4 +61,4 @@ Which lists I'm using here, you can see in hostlist compiler configuration:
 | WaLLy3K                 | <https://v.firebog.net/hosts/static/w3kbl.txt>                                                          |
 | CoinMiner               | <https://hosts.anudeep.me/mirror/CoinMiner.txt>                                                         |
 | Adservers               | <https://hosts.anudeep.me/mirror/adservers.txt>                                                         |
-|Toxic Domains|https://www.stopforumspam.com/downloads/toxic_domains_whole.txt|
+| Toxic Domains           | <https://www.stopforumspam.com/downloads/toxic_domains_whole.txt>                                       |
